@@ -1,5 +1,6 @@
-<glyph format="2" name="DC_0034_01">
-  <advance width="511" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DC_0034_01" format="2">
+  <advance width="511"/>
   <outline>
   </outline>
   <lib>
@@ -65,7 +66,7 @@
         </dict>
       </array>
       <key>robocjk.glyphVariationGlyphs</key>
-      <dict />
+      <dict/>
     </dict>
   </lib>
 </glyph>
