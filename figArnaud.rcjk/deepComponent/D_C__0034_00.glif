@@ -13,17 +13,17 @@
           <key>coord</key>
           <dict>
             <key>DFIN</key>
-            <integer>0</integer>
+            <real>0.048</real>
             <key>ENDS</key>
-            <integer>0</integer>
+            <real>0.0</real>
             <key>FLAT</key>
-            <integer>0</integer>
+            <real>0.0</real>
             <key>HFIN</key>
-            <integer>0</integer>
+            <real>0.0</real>
             <key>MICR</key>
-            <integer>0</integer>
+            <real>0.0</real>
             <key>MVDWN</key>
-            <integer>0</integer>
+            <real>0.0</real>
             <key>MVUP</key>
             <integer>0</integer>
             <key>NARW</key>
