@@ -13,27 +13,27 @@
           <key>coord</key>
           <dict>
             <key>DFIN</key>
-            <real>0.048</real>
+            <real>0.066</real>
             <key>ENDS</key>
-            <real>0.0</real>
+            <real>0.335</real>
             <key>FLAT</key>
             <real>0.0</real>
             <key>HFIN</key>
-            <real>0.0</real>
+            <real>0.209</real>
             <key>MICR</key>
-            <real>0.0</real>
+            <real>0.621</real>
             <key>MVDWN</key>
-            <real>0.0</real>
+            <real>0.093</real>
             <key>MVUP</key>
-            <integer>0</integer>
+            <real>0.206</real>
             <key>NARW</key>
-            <integer>0</integer>
+            <real>0.533</real>
             <key>OSFG</key>
-            <integer>0</integer>
+            <real>0.0</real>
             <key>SLNT</key>
-            <integer>0</integer>
+            <real>1.0</real>
             <key>VFIN</key>
-            <integer>0</integer>
+            <real>0.028</real>
             <key>WGHT</key>
             <integer>0</integer>
           </dict>
