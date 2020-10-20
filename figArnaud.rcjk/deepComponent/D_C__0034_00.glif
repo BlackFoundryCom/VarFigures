@@ -13,29 +13,29 @@
           <key>coord</key>
           <dict>
             <key>DFIN</key>
-            <real>0.066</real>
+            <real>0.617</real>
             <key>ENDS</key>
-            <real>0.335</real>
+            <real>0.064</real>
             <key>FLAT</key>
             <real>0.0</real>
             <key>HFIN</key>
-            <real>0.209</real>
+            <real>0.0</real>
             <key>MICR</key>
-            <real>0.621</real>
+            <real>1.0</real>
             <key>MVDWN</key>
-            <real>0.093</real>
+            <real>0.0</real>
             <key>MVUP</key>
-            <real>0.206</real>
+            <real>0.0</real>
             <key>NARW</key>
-            <real>0.533</real>
+            <real>0.609</real>
             <key>OSFG</key>
             <real>0.0</real>
             <key>SLNT</key>
             <real>1.0</real>
             <key>VFIN</key>
-            <real>0.028</real>
+            <real>1.0</real>
             <key>WGHT</key>
-            <integer>0</integer>
+            <real>0.201</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
@@ -57,6 +57,55 @@
           <integer>0</integer>
           <key>y</key>
           <integer>0</integer>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>DFIN</key>
+            <integer>0</integer>
+            <key>ENDS</key>
+            <integer>0</integer>
+            <key>FLAT</key>
+            <integer>0</integer>
+            <key>HFIN</key>
+            <integer>0</integer>
+            <key>MICR</key>
+            <real>0.0</real>
+            <key>MVDWN</key>
+            <integer>0</integer>
+            <key>MVUP</key>
+            <integer>0</integer>
+            <key>NARW</key>
+            <integer>0</integer>
+            <key>OSFG</key>
+            <integer>0</integer>
+            <key>SLNT</key>
+            <integer>0</integer>
+            <key>VFIN</key>
+            <integer>0</integer>
+            <key>WGHT</key>
+            <real>0.682</real>
+          </dict>
+          <key>maxValue</key>
+          <real>1.0</real>
+          <key>minValue</key>
+          <real>0.0</real>
+          <key>name</key>
+          <string>four</string>
+          <key>rcenterx</key>
+          <integer>0</integer>
+          <key>rcentery</key>
+          <integer>0</integer>
+          <key>rotation</key>
+          <integer>0</integer>
+          <key>scalex</key>
+          <real>0.1</real>
+          <key>scaley</key>
+          <real>0.1</real>
+          <key>x</key>
+          <integer>453</integer>
+          <key>y</key>
+          <integer>89</integer>
         </dict>
       </array>
       <key>robocjk.glyphVariationGlyphs</key>
