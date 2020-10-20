@@ -15,40 +15,40 @@
             <key>ADBOT</key>
             <integer>0</integer>
             <key>ADMID</key>
-            <integer>0</integer>
+            <real>0.0</real>
             <key>DFIN</key>
-            <real>0.0</real>
-            <key>ENDS</key>
-            <real>0.0</real>
-            <key>FLAT</key>
-            <real>0.0</real>
-            <key>HBAR</key>
             <integer>0</integer>
+            <key>ENDS</key>
+            <real>0.543</real>
+            <key>FLAT</key>
+            <integer>0</integer>
+            <key>HBAR</key>
+            <real>0.454</real>
             <key>HFIN</key>
             <real>0.0</real>
             <key>MICR</key>
-            <real>0.0</real>
+            <integer>0</integer>
             <key>MVDWN</key>
-            <real>0.0</real>
+            <integer>0</integer>
             <key>MVUP</key>
-            <real>0.0</real>
+            <integer>0</integer>
             <key>NARW</key>
-            <real>0.0</real>
+            <real>0.645</real>
             <key>OSFG</key>
-            <real>0.0</real>
+            <integer>0</integer>
             <key>SLNT</key>
             <real>1.0</real>
             <key>VFIN</key>
-            <real>0.0</real>
+            <real>0.544</real>
             <key>WGHT</key>
-            <real>0.0</real>
+            <real>1.0</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
           <real>0.0</real>
           <key>name</key>
-          <string>four</string>
+          <string>four_00</string>
           <key>rcenterx</key>
           <integer>0</integer>
           <key>rcentery</key>
@@ -63,61 +63,6 @@
           <integer>0</integer>
           <key>y</key>
           <integer>0</integer>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>ADBOT</key>
-            <integer>0</integer>
-            <key>ADMID</key>
-            <integer>0</integer>
-            <key>DFIN</key>
-            <integer>0</integer>
-            <key>ENDS</key>
-            <integer>0</integer>
-            <key>FLAT</key>
-            <integer>0</integer>
-            <key>HBAR</key>
-            <integer>0</integer>
-            <key>HFIN</key>
-            <integer>0</integer>
-            <key>MICR</key>
-            <real>0.0</real>
-            <key>MVDWN</key>
-            <integer>0</integer>
-            <key>MVUP</key>
-            <integer>0</integer>
-            <key>NARW</key>
-            <integer>0</integer>
-            <key>OSFG</key>
-            <integer>0</integer>
-            <key>SLNT</key>
-            <integer>0</integer>
-            <key>VFIN</key>
-            <integer>0</integer>
-            <key>WGHT</key>
-            <real>0.682</real>
-          </dict>
-          <key>maxValue</key>
-          <real>1.0</real>
-          <key>minValue</key>
-          <real>0.0</real>
-          <key>name</key>
-          <string>four</string>
-          <key>rcenterx</key>
-          <integer>0</integer>
-          <key>rcentery</key>
-          <integer>0</integer>
-          <key>rotation</key>
-          <integer>0</integer>
-          <key>scalex</key>
-          <real>0.1</real>
-          <key>scaley</key>
-          <real>0.1</real>
-          <key>x</key>
-          <integer>453</integer>
-          <key>y</key>
-          <integer>89</integer>
         </dict>
       </array>
       <key>robocjk.glyphVariationGlyphs</key>
