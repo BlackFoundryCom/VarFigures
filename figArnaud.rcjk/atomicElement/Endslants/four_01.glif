@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="four_02" format="2">
+<glyph name="four_01" format="2">
   <advance width="1000"/>
   <outline>
     <contour>
@@ -9,17 +9,17 @@
       <point x="334" y="600" type="line"/>
     </contour>
     <contour>
-      <point x="68" y="225" type="line"/>
-      <point x="354" y="584" type="line"/>
-      <point x="354" y="600" type="line"/>
-      <point x="334" y="600" type="line"/>
-      <point x="35" y="225" type="line"/>
+      <point x="5" y="145" type="line"/>
+      <point x="425" y="145" type="line"/>
+      <point x="455" y="170" type="line"/>
+      <point x="35" y="170" type="line"/>
     </contour>
     <contour>
-      <point x="35" y="95" type="line"/>
-      <point x="455" y="95" type="line"/>
-      <point x="455" y="225" type="line"/>
-      <point x="35" y="225" type="line"/>
+      <point x="69" y="170" type="line"/>
+      <point x="354" y="582" type="line"/>
+      <point x="354" y="600" type="line"/>
+      <point x="334" y="600" type="line"/>
+      <point x="35" y="170" type="line"/>
     </contour>
   </outline>
   <lib>
