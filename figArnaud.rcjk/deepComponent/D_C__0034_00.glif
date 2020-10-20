@@ -12,12 +12,18 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>ADBOT</key>
+            <integer>0</integer>
+            <key>ADMID</key>
+            <integer>0</integer>
             <key>DFIN</key>
             <real>0.0</real>
             <key>ENDS</key>
             <real>0.0</real>
             <key>FLAT</key>
             <real>0.0</real>
+            <key>HBAR</key>
+            <integer>0</integer>
             <key>HFIN</key>
             <real>0.0</real>
             <key>MICR</key>
@@ -61,11 +67,17 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>ADBOT</key>
+            <integer>0</integer>
+            <key>ADMID</key>
+            <integer>0</integer>
             <key>DFIN</key>
             <integer>0</integer>
             <key>ENDS</key>
             <integer>0</integer>
             <key>FLAT</key>
+            <integer>0</integer>
+            <key>HBAR</key>
             <integer>0</integer>
             <key>HFIN</key>
             <integer>0</integer>
