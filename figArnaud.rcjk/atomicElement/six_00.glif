@@ -147,12 +147,12 @@
                     <integer>371</integer>
                   </array>
                   <array>
-                    <integer>241</integer>
-                    <integer>491</integer>
+                    <integer>229</integer>
+                    <integer>487</integer>
                   </array>
                   <array>
-                    <integer>452</integer>
-                    <integer>599</integer>
+                    <integer>400</integer>
+                    <integer>595</integer>
                   </array>
                 </array>
               </array>
@@ -160,7 +160,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>440</integer>
+                    <integer>400</integer>
                     <integer>620</integer>
                   </array>
                 </array>
