@@ -15,17 +15,17 @@
             <key>DBLD</key>
             <real>0.35</real>
             <key>HBAR</key>
-            <integer>0</integer>
+            <real>0.2</real>
             <key>HBLD</key>
             <real>0.4</real>
             <key>LONH</key>
             <integer>0</integer>
             <key>TOPC</key>
-            <real>0.13</real>
+            <real>0.15</real>
             <key>VBLD</key>
-            <real>0.4</real>
+            <real>0.38</real>
             <key>WDTH</key>
-            <real>0.455</real>
+            <real>0.45</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
