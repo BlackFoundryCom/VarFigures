@@ -61,7 +61,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>53</integer>
+                    <integer>83</integer>
                     <integer>303</integer>
                   </array>
                 </array>
@@ -70,7 +70,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>81</integer>
+                    <integer>111</integer>
                     <integer>317</integer>
                   </array>
                 </array>
@@ -79,7 +79,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>81</integer>
+                    <integer>111</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -88,7 +88,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>53</integer>
+                    <integer>83</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -101,7 +101,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>483</integer>
+                    <integer>513</integer>
                     <integer>575</integer>
                   </array>
                 </array>
@@ -110,7 +110,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>483</integer>
+                    <integer>513</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -119,7 +119,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>53</integer>
+                    <integer>83</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -128,7 +128,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>53</integer>
+                    <integer>83</integer>
                     <integer>575</integer>
                   </array>
                 </array>
@@ -141,7 +141,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>30</integer>
+                    <integer>60</integer>
                     <integer>60</integer>
                   </array>
                 </array>
@@ -150,15 +150,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>79.0</real>
-                    <real>14.0</real>
+                    <integer>109</integer>
+                    <integer>14</integer>
                   </array>
                   <array>
-                    <real>156.0</real>
-                    <real>-12.0</real>
+                    <integer>186</integer>
+                    <integer>-12</integer>
                   </array>
                   <array>
-                    <integer>245</integer>
+                    <integer>275</integer>
                     <integer>-12</integer>
                   </array>
                 </array>
@@ -167,12 +167,89 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>398.0</real>
-                    <real>-12.0</real>
+                    <integer>428</integer>
+                    <integer>-12</integer>
                   </array>
                   <array>
-                    <real>501.0</real>
-                    <real>64.0</real>
+                    <integer>531</integer>
+                    <integer>64</integer>
+                  </array>
+                  <array>
+                    <integer>531</integer>
+                    <integer>178</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>curveTo</string>
+                <array>
+                  <array>
+                    <integer>531</integer>
+                    <integer>293</integer>
+                  </array>
+                  <array>
+                    <integer>431</integer>
+                    <integer>368</integer>
+                  </array>
+                  <array>
+                    <integer>275</integer>
+                    <integer>368</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>curveTo</string>
+                <array>
+                  <array>
+                    <integer>201</integer>
+                    <integer>368</integer>
+                  </array>
+                  <array>
+                    <integer>136</integer>
+                    <integer>351</integer>
+                  </array>
+                  <array>
+                    <integer>83</integer>
+                    <integer>318</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>lineTo</string>
+                <array>
+                  <array>
+                    <integer>83</integer>
+                    <integer>293</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>curveTo</string>
+                <array>
+                  <array>
+                    <integer>129</integer>
+                    <integer>325</integer>
+                  </array>
+                  <array>
+                    <integer>199</integer>
+                    <integer>343</integer>
+                  </array>
+                  <array>
+                    <integer>276</integer>
+                    <integer>343</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>curveTo</string>
+                <array>
+                  <array>
+                    <integer>411</integer>
+                    <integer>343</integer>
+                  </array>
+                  <array>
+                    <integer>501</integer>
+                    <integer>277</integer>
                   </array>
                   <array>
                     <integer>501</integer>
@@ -184,92 +261,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>501.0</real>
-                    <real>293.0</real>
+                    <integer>501</integer>
+                    <integer>79</integer>
                   </array>
                   <array>
-                    <real>401.0</real>
-                    <real>368.0</real>
+                    <integer>411</integer>
+                    <integer>13</integer>
                   </array>
                   <array>
-                    <integer>245</integer>
-                    <integer>368</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>curveTo</string>
-                <array>
-                  <array>
-                    <real>171.0</real>
-                    <real>368.0</real>
-                  </array>
-                  <array>
-                    <real>106.0</real>
-                    <real>351.0</real>
-                  </array>
-                  <array>
-                    <integer>53</integer>
-                    <integer>318</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>lineTo</string>
-                <array>
-                  <array>
-                    <integer>53</integer>
-                    <integer>293</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>curveTo</string>
-                <array>
-                  <array>
-                    <real>99.0</real>
-                    <real>325.0</real>
-                  </array>
-                  <array>
-                    <real>169.0</real>
-                    <real>343.0</real>
-                  </array>
-                  <array>
-                    <integer>246</integer>
-                    <integer>343</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>curveTo</string>
-                <array>
-                  <array>
-                    <real>381.0</real>
-                    <real>343.0</real>
-                  </array>
-                  <array>
-                    <real>471.0</real>
-                    <real>277.0</real>
-                  </array>
-                  <array>
-                    <integer>471</integer>
-                    <integer>178</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>curveTo</string>
-                <array>
-                  <array>
-                    <real>471.0</real>
-                    <real>79.0</real>
-                  </array>
-                  <array>
-                    <real>381.0</real>
-                    <real>13.0</real>
-                  </array>
-                  <array>
-                    <integer>246</integer>
+                    <integer>276</integer>
                     <integer>13</integer>
                   </array>
                 </array>
@@ -278,15 +278,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>167.0</real>
+                    <integer>197</integer>
                     <integer>13</integer>
                   </array>
                   <array>
-                    <real>98.0</real>
-                    <real>35.0</real>
+                    <integer>128</integer>
+                    <integer>35</integer>
                   </array>
                   <array>
-                    <integer>47</integer>
+                    <integer>77</integer>
                     <integer>77</integer>
                   </array>
                 </array>
@@ -297,7 +297,7 @@
               </array>
             </array>
             <key>width</key>
-            <integer>531</integer>
+            <integer>606</integer>
           </dict>
           <key>layerName</key>
           <string>extended</string>
@@ -318,7 +318,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>73</integer>
+                    <integer>63</integer>
                     <integer>297</integer>
                   </array>
                 </array>
@@ -327,7 +327,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>238</integer>
+                    <integer>228</integer>
                     <integer>297</integer>
                   </array>
                 </array>
@@ -336,7 +336,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>238</integer>
+                    <integer>228</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -345,7 +345,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>73</integer>
+                    <integer>63</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -358,7 +358,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>404</integer>
+                    <integer>394</integer>
                     <integer>455</integer>
                   </array>
                 </array>
@@ -367,7 +367,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>404</integer>
+                    <integer>394</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -376,7 +376,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>73</integer>
+                    <integer>63</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -385,7 +385,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>73</integer>
+                    <integer>63</integer>
                     <integer>455</integer>
                   </array>
                 </array>
@@ -398,7 +398,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>20</integer>
+                    <integer>10</integer>
                     <integer>51</integer>
                   </array>
                 </array>
@@ -407,15 +407,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>73.0</real>
-                    <real>13.0</real>
+                    <integer>63</integer>
+                    <integer>13</integer>
                   </array>
                   <array>
-                    <real>133.0</real>
-                    <real>-12.0</real>
+                    <integer>123</integer>
+                    <integer>-12</integer>
                   </array>
                   <array>
-                    <integer>213</integer>
+                    <integer>203</integer>
                     <integer>-12</integer>
                   </array>
                 </array>
@@ -424,15 +424,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>345.0</real>
-                    <real>-12.0</real>
+                    <integer>335</integer>
+                    <integer>-12</integer>
                   </array>
                   <array>
-                    <real>444.0</real>
-                    <real>76.0</real>
+                    <integer>434</integer>
+                    <integer>76</integer>
                   </array>
                   <array>
-                    <integer>444</integer>
+                    <integer>434</integer>
                     <integer>198</integer>
                   </array>
                 </array>
@@ -441,15 +441,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>444.0</real>
-                    <real>313.0</real>
+                    <integer>434</integer>
+                    <integer>313</integer>
                   </array>
                   <array>
-                    <real>358.0</real>
-                    <real>388.0</real>
+                    <integer>348</integer>
+                    <integer>388</integer>
                   </array>
                   <array>
-                    <integer>225</integer>
+                    <integer>215</integer>
                     <integer>388</integer>
                   </array>
                 </array>
@@ -458,15 +458,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>173.0</real>
-                    <real>388.0</real>
+                    <integer>163</integer>
+                    <integer>388</integer>
                   </array>
                   <array>
-                    <real>113.0</real>
-                    <real>371.0</real>
+                    <integer>103</integer>
+                    <integer>371</integer>
                   </array>
                   <array>
-                    <integer>73</integer>
+                    <integer>63</integer>
                     <integer>346</integer>
                   </array>
                 </array>
@@ -475,7 +475,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>73</integer>
+                    <integer>63</integer>
                     <integer>246</integer>
                   </array>
                 </array>
@@ -484,15 +484,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>104.0</real>
-                    <real>255.0</real>
+                    <integer>94</integer>
+                    <integer>255</integer>
                   </array>
                   <array>
-                    <integer>130</integer>
+                    <integer>120</integer>
                     <integer>259</integer>
                   </array>
                   <array>
-                    <integer>156</integer>
+                    <integer>146</integer>
                     <integer>259</integer>
                   </array>
                 </array>
@@ -501,15 +501,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <integer>218</integer>
+                    <integer>208</integer>
                     <integer>259</integer>
                   </array>
                   <array>
-                    <real>254.0</real>
-                    <real>235.0</real>
+                    <integer>244</integer>
+                    <integer>235</integer>
                   </array>
                   <array>
-                    <integer>254</integer>
+                    <integer>244</integer>
                     <integer>195</integer>
                   </array>
                 </array>
@@ -518,15 +518,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>254.0</real>
-                    <real>159.0</real>
+                    <integer>244</integer>
+                    <integer>159</integer>
                   </array>
                   <array>
-                    <real>225.0</real>
-                    <real>135.0</real>
+                    <integer>215</integer>
+                    <integer>135</integer>
                   </array>
                   <array>
-                    <integer>183</integer>
+                    <integer>173</integer>
                     <integer>135</integer>
                   </array>
                 </array>
@@ -535,15 +535,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>146.0</real>
-                    <real>135.0</real>
+                    <integer>136</integer>
+                    <integer>135</integer>
                   </array>
                   <array>
-                    <real>118.0</real>
-                    <real>146.0</real>
+                    <integer>108</integer>
+                    <integer>146</integer>
                   </array>
                   <array>
-                    <integer>82</integer>
+                    <integer>72</integer>
                     <integer>168</integer>
                   </array>
                 </array>
@@ -554,7 +554,7 @@
               </array>
             </array>
             <key>width</key>
-            <integer>510</integer>
+            <integer>459</integer>
           </dict>
           <key>layerName</key>
           <string>bold</string>
