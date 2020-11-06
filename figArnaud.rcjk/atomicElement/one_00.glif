@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one_00" format="2">
-  <advance width="239"/>
+  <advance width="229"/>
   <outline>
     <contour>
       <point x="105" y="0" type="line"/>
@@ -33,7 +33,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>245</integer>
+                    <integer>175</integer>
                     <integer>0</integer>
                   </array>
                 </array>
@@ -42,7 +42,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>274</integer>
+                    <integer>204</integer>
                     <integer>0</integer>
                   </array>
                 </array>
@@ -51,7 +51,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>274</integer>
+                    <integer>204</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -60,7 +60,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>250</integer>
+                    <integer>180</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -69,15 +69,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <integer>222</integer>
+                    <integer>152</integer>
                     <integer>600</integer>
                   </array>
                   <array>
-                    <integer>194</integer>
+                    <integer>124</integer>
                     <integer>598</integer>
                   </array>
                   <array>
-                    <integer>169</integer>
+                    <integer>99</integer>
                     <integer>597</integer>
                   </array>
                 </array>
@@ -86,7 +86,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>70</integer>
+                    <integer>0</integer>
                     <integer>592</integer>
                   </array>
                 </array>
@@ -95,7 +95,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>70</integer>
+                    <integer>0</integer>
                     <integer>572</integer>
                   </array>
                 </array>
@@ -104,7 +104,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>245</integer>
+                    <integer>175</integer>
                     <integer>572</integer>
                   </array>
                 </array>
@@ -115,7 +115,7 @@
               </array>
             </array>
             <key>width</key>
-            <integer>390</integer>
+            <integer>369</integer>
           </dict>
           <key>layerName</key>
           <string>longertopbar</string>
@@ -136,7 +136,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>125</integer>
+                    <integer>135</integer>
                     <integer>0</integer>
                   </array>
                 </array>
@@ -145,7 +145,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>315</integer>
+                    <integer>325</integer>
                     <integer>0</integer>
                   </array>
                 </array>
@@ -154,7 +154,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>315</integer>
+                    <integer>325</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -163,7 +163,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>160</integer>
+                    <integer>170</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -172,15 +172,15 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>142.0</real>
-                    <real>600.0</real>
+                    <integer>152</integer>
+                    <integer>600</integer>
                   </array>
                   <array>
-                    <integer>125</integer>
+                    <integer>135</integer>
                     <integer>598</integer>
                   </array>
                   <array>
-                    <integer>109</integer>
+                    <integer>119</integer>
                     <integer>596</integer>
                   </array>
                 </array>
@@ -189,7 +189,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>10</integer>
+                    <integer>20</integer>
                     <integer>582</integer>
                   </array>
                 </array>
@@ -198,7 +198,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>10</integer>
+                    <integer>20</integer>
                     <integer>457</integer>
                   </array>
                 </array>
@@ -207,7 +207,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>125</integer>
+                    <integer>135</integer>
                     <integer>457</integer>
                   </array>
                 </array>
@@ -218,7 +218,7 @@
               </array>
             </array>
             <key>width</key>
-            <integer>390</integer>
+            <integer>450</integer>
           </dict>
           <key>layerName</key>
           <string>bold</string>
