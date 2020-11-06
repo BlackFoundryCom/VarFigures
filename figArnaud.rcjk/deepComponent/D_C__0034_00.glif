@@ -13,17 +13,17 @@
           <key>coord</key>
           <dict>
             <key>DBLD</key>
-            <real>0.319</real>
+            <real>0.35</real>
             <key>HBAR</key>
             <integer>0</integer>
             <key>HBLD</key>
-            <real>0.35</real>
+            <real>0.4</real>
             <key>LONH</key>
             <integer>0</integer>
             <key>TOPC</key>
-            <real>0.124</real>
+            <real>0.13</real>
             <key>VBLD</key>
-            <real>0.351</real>
+            <real>0.4</real>
             <key>WDTH</key>
             <real>0.455</real>
           </dict>
