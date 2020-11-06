@@ -34,7 +34,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>-20</integer>
+                    <integer>30</integer>
                     <integer>0</integer>
                   </array>
                 </array>
@@ -43,7 +43,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>108</integer>
+                    <integer>158</integer>
                     <integer>0</integer>
                   </array>
                 </array>
@@ -52,7 +52,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>332</integer>
+                    <integer>382</integer>
                     <integer>580</integer>
                   </array>
                 </array>
@@ -61,7 +61,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>204</integer>
+                    <integer>254</integer>
                     <integer>580</integer>
                   </array>
                 </array>
@@ -74,7 +74,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>43</integer>
+                    <integer>93</integer>
                     <integer>575</integer>
                   </array>
                 </array>
@@ -83,7 +83,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>322</integer>
+                    <integer>372</integer>
                     <integer>575</integer>
                   </array>
                 </array>
@@ -92,7 +92,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>332</integer>
+                    <integer>382</integer>
                     <integer>580</integer>
                   </array>
                 </array>
@@ -101,7 +101,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>332</integer>
+                    <integer>382</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -110,7 +110,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>43</integer>
+                    <integer>93</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -121,7 +121,7 @@
               </array>
             </array>
             <key>width</key>
-            <integer>500</integer>
+            <integer>412</integer>
           </dict>
           <key>layerName</key>
           <string>diabold</string>
@@ -142,7 +142,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>24</integer>
+                    <integer>70</integer>
                     <integer>0</integer>
                   </array>
                 </array>
@@ -151,7 +151,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>58</integer>
+                    <integer>104</integer>
                     <integer>0</integer>
                   </array>
                 </array>
@@ -160,7 +160,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>502</integer>
+                    <integer>548</integer>
                     <integer>580</integer>
                   </array>
                 </array>
@@ -169,7 +169,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>468</integer>
+                    <integer>514</integer>
                     <integer>580</integer>
                   </array>
                 </array>
@@ -182,7 +182,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>43</integer>
+                    <integer>89</integer>
                     <integer>575</integer>
                   </array>
                 </array>
@@ -191,7 +191,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>492</integer>
+                    <integer>538</integer>
                     <integer>575</integer>
                   </array>
                 </array>
@@ -200,7 +200,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>502</integer>
+                    <integer>548</integer>
                     <integer>580</integer>
                   </array>
                 </array>
@@ -209,7 +209,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>502</integer>
+                    <integer>548</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -218,7 +218,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>43</integer>
+                    <integer>89</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -229,7 +229,7 @@
               </array>
             </array>
             <key>width</key>
-            <integer>500</integer>
+            <integer>618</integer>
           </dict>
           <key>layerName</key>
           <string>extended</string>
@@ -250,7 +250,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>58</integer>
+                    <integer>40</integer>
                     <integer>0</integer>
                   </array>
                 </array>
@@ -259,7 +259,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>248</integer>
+                    <integer>230</integer>
                     <integer>0</integer>
                   </array>
                 </array>
@@ -268,7 +268,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>432</integer>
+                    <integer>414</integer>
                     <integer>480</integer>
                   </array>
                 </array>
@@ -277,7 +277,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>242</integer>
+                    <integer>224</integer>
                     <integer>480</integer>
                   </array>
                 </array>
@@ -290,7 +290,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>38</integer>
+                    <integer>20</integer>
                     <integer>450</integer>
                   </array>
                 </array>
@@ -299,7 +299,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>282</integer>
+                    <integer>264</integer>
                     <integer>450</integer>
                   </array>
                 </array>
@@ -308,7 +308,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>432</integer>
+                    <integer>414</integer>
                     <integer>480</integer>
                   </array>
                 </array>
@@ -317,7 +317,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>432</integer>
+                    <integer>414</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -326,7 +326,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>38</integer>
+                    <integer>20</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -337,7 +337,7 @@
               </array>
             </array>
             <key>width</key>
-            <integer>500</integer>
+            <integer>444</integer>
           </dict>
           <key>layerName</key>
           <string>bold</string>
