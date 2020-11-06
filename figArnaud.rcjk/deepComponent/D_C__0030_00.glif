@@ -13,9 +13,9 @@
           <key>coord</key>
           <dict>
             <key>WDTH</key>
-            <real>0.25</real>
+            <real>0.323</real>
             <key>XBLD</key>
-            <real>0.6</real>
+            <real>0.452</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
