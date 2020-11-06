@@ -22,4 +22,10 @@
       <point x="15" y="170" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>robocjk.glyphVariationGlyphs</key>
+      <dict/>
+    </dict>
+  </lib>
 </glyph>
