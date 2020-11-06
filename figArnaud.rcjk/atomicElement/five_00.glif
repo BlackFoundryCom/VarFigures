@@ -70,7 +70,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>83</integer>
+                    <integer>81</integer>
                     <integer>317</integer>
                   </array>
                 </array>
@@ -79,7 +79,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>83</integer>
+                    <integer>81</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -327,7 +327,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>243</integer>
+                    <integer>238</integer>
                     <integer>297</integer>
                   </array>
                 </array>
@@ -336,7 +336,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>243</integer>
+                    <integer>238</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -359,7 +359,7 @@
                 <array>
                   <array>
                     <integer>404</integer>
-                    <integer>450</integer>
+                    <integer>455</integer>
                   </array>
                 </array>
               </array>
@@ -386,7 +386,7 @@
                 <array>
                   <array>
                     <integer>73</integer>
-                    <integer>450</integer>
+                    <integer>455</integer>
                   </array>
                 </array>
               </array>
