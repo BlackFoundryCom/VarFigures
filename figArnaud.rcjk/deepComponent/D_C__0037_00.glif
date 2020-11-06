@@ -13,11 +13,11 @@
           <key>coord</key>
           <dict>
             <key>DBLD</key>
-            <real>0.084</real>
+            <real>0.0</real>
             <key>WDTH</key>
             <real>0.485</real>
             <key>XBLD</key>
-            <real>0.45</real>
+            <real>0.42</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
