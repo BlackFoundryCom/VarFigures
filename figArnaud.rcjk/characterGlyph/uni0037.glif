@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0037" format="2">
+  <unicode hex="0037"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.deepComponents</key>
+      <array/>
+      <key>robocjk.fontVariationGlyphs</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>
