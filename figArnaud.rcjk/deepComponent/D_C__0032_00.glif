@@ -12,8 +12,6 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>BCON</key>
-            <integer>0</integer>
             <key>DANG</key>
             <integer>0</integer>
             <key>DBLD</key>
@@ -21,9 +19,9 @@
             <key>LBAR</key>
             <integer>0</integer>
             <key>WDTH</key>
-            <real>0.365</real>
+            <real>0.35</real>
             <key>XBLD</key>
-            <real>0.474</real>
+            <real>0.45</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
