@@ -759,7 +759,7 @@
                 <array>
                   <array>
                     <integer>48</integer>
-                    <integer>533</integer>
+                    <integer>523</integer>
                   </array>
                 </array>
               </array>
@@ -768,7 +768,7 @@
                 <array>
                   <array>
                     <integer>64</integer>
-                    <integer>514</integer>
+                    <integer>504</integer>
                   </array>
                 </array>
               </array>
@@ -797,11 +797,11 @@
                     <real>587.0</real>
                   </array>
                   <array>
-                    <real>463.0</real>
+                    <real>461.0</real>
                     <real>522.0</real>
                   </array>
                   <array>
-                    <integer>463</integer>
+                    <integer>461</integer>
                     <integer>430</integer>
                   </array>
                 </array>
@@ -810,7 +810,7 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>463.0</real>
+                    <real>461.0</real>
                     <real>338.0</real>
                   </array>
                   <array>
@@ -836,7 +836,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>105</integer>
+                    <integer>103</integer>
                     <integer>20</integer>
                   </array>
                 </array>
@@ -845,7 +845,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>331</integer>
+                    <integer>329</integer>
                     <integer>195</integer>
                   </array>
                 </array>
@@ -854,7 +854,7 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <integer>427</integer>
+                    <integer>425</integer>
                     <integer>269</integer>
                   </array>
                   <array>
@@ -897,7 +897,7 @@
                   </array>
                   <array>
                     <integer>48</integer>
-                    <integer>533</integer>
+                    <integer>523</integer>
                   </array>
                 </array>
               </array>
