@@ -13,7 +13,7 @@
           <key>coord</key>
           <dict>
             <key>DBLD</key>
-            <real>0.0</real>
+            <real>0.05</real>
             <key>WDTH</key>
             <real>0.5</real>
             <key>XBLD</key>
