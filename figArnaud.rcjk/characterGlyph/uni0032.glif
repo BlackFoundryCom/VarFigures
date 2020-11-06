@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0032" format="2">
-  <advance width="1000"/>
+  <advance width="500"/>
   <unicode hex="0032"/>
   <outline>
   </outline>
@@ -30,7 +30,7 @@
           <key>scaley</key>
           <integer>1</integer>
           <key>x</key>
-          <integer>0</integer>
+          <integer>-10</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
