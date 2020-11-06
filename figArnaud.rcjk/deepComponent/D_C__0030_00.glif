@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="DC_0030_00" format="2">
-  <advance width="550"/>
+  <advance width="600"/>
   <outline>
   </outline>
   <lib>
@@ -34,7 +34,7 @@
           <key>scaley</key>
           <integer>1</integer>
           <key>x</key>
-          <integer>0</integer>
+          <integer>20</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
