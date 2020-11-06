@@ -13,38 +13,9 @@
           <key>coord</key>
           <dict>
             <key>HLON</key>
-            <integer>0</integer>
+            <real>0.186</real>
             <key>XBLD</key>
-            <integer>0</integer>
-          </dict>
-          <key>maxValue</key>
-          <real>1.0</real>
-          <key>minValue</key>
-          <real>0.0</real>
-          <key>name</key>
-          <string>one_00</string>
-          <key>rcenterx</key>
-          <integer>0</integer>
-          <key>rcentery</key>
-          <integer>0</integer>
-          <key>rotation</key>
-          <integer>0</integer>
-          <key>scalex</key>
-          <integer>1</integer>
-          <key>scaley</key>
-          <integer>1</integer>
-          <key>x</key>
-          <integer>0</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>HLON</key>
-            <integer>0</integer>
-            <key>XBLD</key>
-            <integer>0</integer>
+            <real>0.474</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
