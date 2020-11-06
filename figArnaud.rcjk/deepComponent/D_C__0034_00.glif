@@ -12,43 +12,27 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>ADBOT</key>
-            <integer>0</integer>
-            <key>ADMID</key>
-            <real>0.0</real>
-            <key>DFIN</key>
-            <integer>0</integer>
-            <key>ENDS</key>
-            <real>0.543</real>
-            <key>FLAT</key>
-            <integer>0</integer>
+            <key>DBLD</key>
+            <real>0.319</real>
             <key>HBAR</key>
-            <real>0.454</real>
-            <key>HFIN</key>
-            <real>0.0</real>
-            <key>MICR</key>
             <integer>0</integer>
-            <key>MVDWN</key>
+            <key>HBLD</key>
+            <real>0.35</real>
+            <key>LONH</key>
             <integer>0</integer>
-            <key>MVUP</key>
-            <integer>0</integer>
-            <key>NARW</key>
-            <real>0.645</real>
-            <key>OSFG</key>
-            <integer>0</integer>
-            <key>SLNT</key>
-            <real>1.0</real>
-            <key>VFIN</key>
-            <real>0.544</real>
-            <key>WGHT</key>
-            <real>1.0</real>
+            <key>TOPC</key>
+            <real>0.124</real>
+            <key>VBLD</key>
+            <real>0.351</real>
+            <key>WDTH</key>
+            <real>0.455</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
           <real>0.0</real>
           <key>name</key>
-          <string>four_00</string>
+          <string>four_02</string>
           <key>rcenterx</key>
           <integer>0</integer>
           <key>rcentery</key>
