@@ -40,225 +40,6 @@
       <string>1,0,0,1</string>
       <key>robocjk.glyphVariationGlyphs</key>
       <dict>
-        <key>BCON</key>
-        <dict>
-          <key>content</key>
-          <dict>
-            <key>deepComponents</key>
-            <array/>
-            <key>outlines</key>
-            <array>
-              <array>
-                <string>moveTo</string>
-                <array>
-                  <array>
-                    <integer>51</integer>
-                    <integer>25</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>lineTo</string>
-                <array>
-                  <array>
-                    <integer>41</integer>
-                    <integer>20</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>lineTo</string>
-                <array>
-                  <array>
-                    <integer>41</integer>
-                    <integer>0</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>lineTo</string>
-                <array>
-                  <array>
-                    <integer>298</integer>
-                    <integer>0</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>lineTo</string>
-                <array>
-                  <array>
-                    <integer>298</integer>
-                    <integer>25</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>closePath</string>
-                <array/>
-              </array>
-              <array>
-                <string>moveTo</string>
-                <array>
-                  <array>
-                    <integer>33</integer>
-                    <integer>559</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>lineTo</string>
-                <array>
-                  <array>
-                    <integer>49</integer>
-                    <integer>541</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>curveTo</string>
-                <array>
-                  <array>
-                    <integer>83</integer>
-                    <integer>576</integer>
-                  </array>
-                  <array>
-                    <integer>116</integer>
-                    <integer>587</integer>
-                  </array>
-                  <array>
-                    <integer>151</integer>
-                    <integer>587</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>curveTo</string>
-                <array>
-                  <array>
-                    <real>212.0</real>
-                    <real>587.0</real>
-                  </array>
-                  <array>
-                    <integer>253</integer>
-                    <integer>543</integer>
-                  </array>
-                  <array>
-                    <integer>253</integer>
-                    <integer>478</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>curveTo</string>
-                <array>
-                  <array>
-                    <real>253.0</real>
-                    <real>413.0</real>
-                  </array>
-                  <array>
-                    <integer>223</integer>
-                    <integer>364</integer>
-                  </array>
-                  <array>
-                    <integer>183</integer>
-                    <integer>288</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>lineTo</string>
-                <array>
-                  <array>
-                    <integer>41</integer>
-                    <integer>20</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>lineTo</string>
-                <array>
-                  <array>
-                    <integer>173</integer>
-                    <integer>20</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>lineTo</string>
-                <array>
-                  <array>
-                    <integer>205</integer>
-                    <integer>271</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>curveTo</string>
-                <array>
-                  <array>
-                    <integer>219</integer>
-                    <integer>384</integer>
-                  </array>
-                  <array>
-                    <integer>284</integer>
-                    <integer>407</integer>
-                  </array>
-                  <array>
-                    <integer>284</integer>
-                    <integer>478</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>curveTo</string>
-                <array>
-                  <array>
-                    <real>284.0</real>
-                    <real>558.0</real>
-                  </array>
-                  <array>
-                    <integer>231</integer>
-                    <integer>612</integer>
-                  </array>
-                  <array>
-                    <integer>153</integer>
-                    <integer>612</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>curveTo</string>
-                <array>
-                  <array>
-                    <real>113.0</real>
-                    <real>612.0</real>
-                  </array>
-                  <array>
-                    <integer>72</integer>
-                    <integer>598</integer>
-                  </array>
-                  <array>
-                    <integer>33</integer>
-                    <integer>559</integer>
-                  </array>
-                </array>
-              </array>
-              <array>
-                <string>closePath</string>
-                <array/>
-              </array>
-            </array>
-            <key>width</key>
-            <integer>354</integer>
-          </dict>
-          <key>layerName</key>
-          <string>connectbottom</string>
-          <key>maxValue</key>
-          <real>1.0</real>
-          <key>minValue</key>
-          <real>0.0</real>
-        </dict>
         <key>DANG</key>
         <dict>
           <key>content</key>
@@ -1033,12 +814,12 @@
                     <real>338.0</real>
                   </array>
                   <array>
-                    <integer>413</integer>
-                    <integer>299</integer>
+                    <integer>394</integer>
+                    <integer>278</integer>
                   </array>
                   <array>
-                    <integer>338</integer>
-                    <integer>239</integer>
+                    <integer>318</integer>
+                    <integer>219</integer>
                   </array>
                 </array>
               </array>
@@ -1064,8 +845,8 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>351</integer>
-                    <integer>215</integer>
+                    <integer>331</integer>
+                    <integer>195</integer>
                   </array>
                 </array>
               </array>
@@ -1073,8 +854,8 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <integer>445</integer>
-                    <integer>290</integer>
+                    <integer>427</integer>
+                    <integer>269</integer>
                   </array>
                   <array>
                     <real>493.0</real>
@@ -1218,7 +999,7 @@
                     <real>433.0</real>
                   </array>
                   <array>
-                    <integer>126</integer>
+                    <integer>128</integer>
                     <integer>443</integer>
                   </array>
                   <array>
@@ -1231,8 +1012,8 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>191.0</real>
-                    <real>443.0</real>
+                    <integer>191</integer>
+                    <integer>443</integer>
                   </array>
                   <array>
                     <real>217.0</real>
