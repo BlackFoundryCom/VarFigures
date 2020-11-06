@@ -1,25 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four_02" format="2">
-  <advance width="447"/>
+  <advance width="417"/>
   <outline>
     <contour>
-      <point x="142" y="0" type="line"/>
-      <point x="312" y="0" type="line"/>
-      <point x="312" y="600" type="line"/>
-      <point x="142" y="600" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="362" y="600" type="line"/>
+      <point x="172" y="600" type="line"/>
     </contour>
     <contour>
       <point x="15" y="145" type="line"/>
-      <point x="382" y="145" type="line"/>
-      <point x="382" y="170" type="line"/>
+      <point x="432" y="145" type="line"/>
+      <point x="432" y="170" type="line"/>
       <point x="15" y="170" type="line"/>
     </contour>
     <contour>
       <point x="44" y="170" type="line"/>
-      <point x="162" y="570" type="line"/>
-      <point x="162" y="600" type="line"/>
-      <point x="142" y="600" type="line"/>
+      <point x="192" y="576" type="line"/>
+      <point x="192" y="600" type="line"/>
+      <point x="172" y="600" type="line"/>
       <point x="15" y="170" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>robocjk.glyphVariationGlyphs</key>
+      <dict/>
+    </dict>
+  </lib>
 </glyph>
