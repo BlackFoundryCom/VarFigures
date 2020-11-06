@@ -15,9 +15,9 @@
             <key>DBLD</key>
             <real>0.0</real>
             <key>WDTH</key>
-            <real>0.485</real>
+            <real>0.5</real>
             <key>XBLD</key>
-            <real>0.42</real>
+            <real>0.45</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
