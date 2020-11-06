@@ -39,4 +39,10 @@
       <point x="483.0" y="279.0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>robocjk.glyphVariationGlyphs</key>
+      <dict/>
+    </dict>
+  </lib>
 </glyph>
