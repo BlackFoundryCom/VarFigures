@@ -4,10 +4,10 @@
   <outline>
     <contour>
       <point x="145" y="0" type="line"/>
-      <point x="178" y="0" type="line"/>
-      <point x="178" y="600" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="600" type="line"/>
       <point x="150" y="600" type="line" smooth="yes"/>
-      <point x="132.0" y="600.0"/>
+      <point x="132" y="600"/>
       <point x="114" y="598"/>
       <point x="99" y="596" type="curve" smooth="yes"/>
       <point x="70" y="592" type="line"/>
@@ -42,7 +42,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>278</integer>
+                    <integer>274</integer>
                     <integer>0</integer>
                   </array>
                 </array>
@@ -51,7 +51,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>278</integer>
+                    <integer>274</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -69,8 +69,8 @@
                 <string>curveTo</string>
                 <array>
                   <array>
-                    <real>222.0</real>
-                    <real>600.0</real>
+                    <integer>222</integer>
+                    <integer>600</integer>
                   </array>
                   <array>
                     <integer>194</integer>
