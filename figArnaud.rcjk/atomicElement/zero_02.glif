@@ -321,15 +321,15 @@
                 <array>
                   <array>
                     <integer>317</integer>
-                    <integer>176</integer>
+                    <integer>186</integer>
                   </array>
                   <array>
                     <real>307.0</real>
-                    <real>123.0</real>
+                    <real>133.0</real>
                   </array>
                   <array>
                     <integer>271</integer>
-                    <integer>123</integer>
+                    <integer>133</integer>
                   </array>
                 </array>
               </array>
@@ -338,11 +338,11 @@
                 <array>
                   <array>
                     <real>235.0</real>
-                    <real>123.0</real>
+                    <real>133.0</real>
                   </array>
                   <array>
                     <integer>225</integer>
-                    <integer>176</integer>
+                    <integer>186</integer>
                   </array>
                   <array>
                     <integer>225</integer>
@@ -355,15 +355,15 @@
                 <array>
                   <array>
                     <integer>225</integer>
-                    <integer>424</integer>
+                    <integer>414</integer>
                   </array>
                   <array>
                     <real>235.0</real>
-                    <real>477.0</real>
+                    <real>467.0</real>
                   </array>
                   <array>
                     <integer>271</integer>
-                    <integer>477</integer>
+                    <integer>467</integer>
                   </array>
                 </array>
               </array>
@@ -372,11 +372,11 @@
                 <array>
                   <array>
                     <real>307.0</real>
-                    <real>477.0</real>
+                    <real>467.0</real>
                   </array>
                   <array>
                     <integer>317</integer>
-                    <integer>424</integer>
+                    <integer>414</integer>
                   </array>
                   <array>
                     <integer>317</integer>
