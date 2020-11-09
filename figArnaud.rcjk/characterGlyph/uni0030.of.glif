@@ -6,6 +6,7 @@
   <guideline x="338" y="600" angle="0" identifier="EoGMsDzyiV"/>
   <guideline x="335" y="612" angle="0" identifier="1aKatl1lvU"/>
   <guideline x="320" y="472" angle="0" identifier="K2ZNoeeRf9"/>
+  <guideline x="261" y="-12" angle="0" identifier="A2tvfQYo8G"/>
   <outline>
   </outline>
   <lib>
@@ -28,15 +29,15 @@
           <key>rcentery</key>
           <integer>0</integer>
           <key>rotation</key>
-          <integer>0</integer>
+          <real>0.0</real>
           <key>scalex</key>
           <real>0.9</real>
           <key>scaley</key>
-          <real>0.771</real>
+          <real>0.776</real>
           <key>x</key>
-          <integer>-1</integer>
+          <integer>29</integer>
           <key>y</key>
-          <integer>0</integer>
+          <integer>-3</integer>
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
