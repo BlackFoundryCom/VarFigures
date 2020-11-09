@@ -2,6 +2,13 @@
 <glyph name="uni0038.inf" format="2">
   <advance width="555"/>
   <unicode hex="0038"/>
+  <guideline x="303" y="612" angle="0" identifier="qiwYGRPyRU"/>
+  <guideline x="281" y="600" angle="0" identifier="VnxaZwvuyp"/>
+  <guideline x="278" y="-12" angle="0" identifier="mnna1N8AaY"/>
+  <guideline x="307" y="460" angle="0" identifier="Dd0iKrBAFd"/>
+  <guideline x="284" y="472" angle="0" identifier="6U5wSPU7Bs"/>
+  <guideline x="276" y="400" angle="0" identifier="caseZq3qjK"/>
+  <guideline x="279" y="412" angle="0" identifier="efxtQNlT6e"/>
   <outline>
   </outline>
   <lib>
@@ -12,7 +19,12 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>BOLD</key>
+            <real>0.5</real>
+            <key>WDTH</key>
+            <real>0.0</real>
+          </dict>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
@@ -26,9 +38,9 @@
           <key>rotation</key>
           <integer>0</integer>
           <key>scalex</key>
-          <integer>1</integer>
+          <real>0.7</real>
           <key>scaley</key>
-          <integer>1</integer>
+          <real>0.673</real>
           <key>x</key>
           <integer>22</integer>
           <key>y</key>
