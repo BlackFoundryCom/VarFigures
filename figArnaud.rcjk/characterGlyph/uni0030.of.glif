@@ -19,9 +19,9 @@
           <key>coord</key>
           <dict>
             <key>BOLD</key>
-            <real>0.15</real>
+            <real>0.37</real>
             <key>WDTH</key>
-            <real>0.05</real>
+            <real>0.504</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
@@ -36,7 +36,7 @@
           <key>rotation</key>
           <real>0.0</real>
           <key>scalex</key>
-          <real>0.9</real>
+          <real>0.76</real>
           <key>scaley</key>
           <real>0.776</real>
           <key>x</key>
