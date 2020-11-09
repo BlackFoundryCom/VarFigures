@@ -21,7 +21,7 @@
             <key>BOLD</key>
             <real>0.15</real>
             <key>WDTH</key>
-            <real>0.1</real>
+            <real>0.05</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
@@ -40,7 +40,7 @@
           <key>scaley</key>
           <real>0.776</real>
           <key>x</key>
-          <integer>29</integer>
+          <integer>25</integer>
           <key>y</key>
           <integer>-3</integer>
         </dict>
