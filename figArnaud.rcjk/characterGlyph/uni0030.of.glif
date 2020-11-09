@@ -21,7 +21,7 @@
             <key>BOLD</key>
             <real>0.15</real>
             <key>WDTH</key>
-            <real>0.0</real>
+            <real>0.1</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
