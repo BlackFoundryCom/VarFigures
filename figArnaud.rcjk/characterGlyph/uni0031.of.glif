@@ -16,7 +16,7 @@
           <key>coord</key>
           <dict>
             <key>BOLD</key>
-            <real>0.197</real>
+            <real>0.4</real>
             <key>HLON</key>
             <real>0.0</real>
           </dict>
@@ -33,11 +33,11 @@
           <key>rotation</key>
           <integer>0</integer>
           <key>scalex</key>
-          <real>0.85</real>
+          <real>0.74</real>
           <key>scaley</key>
           <real>0.767</real>
           <key>x</key>
-          <integer>14</integer>
+          <integer>29</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
