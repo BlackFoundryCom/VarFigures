@@ -40,7 +40,54 @@
         </dict>
       </array>
       <key>robocjk.glyphVariationGlyphs</key>
-      <dict/>
+      <dict>
+        <key>BOLD</key>
+        <dict>
+          <key>content</key>
+          <dict>
+            <key>deepComponents</key>
+            <array>
+              <dict>
+                <key>coord</key>
+                <dict>
+                  <key>WDTH</key>
+                  <real>0.0</real>
+                  <key>XBLD</key>
+                  <real>1.0</real>
+                </dict>
+                <key>maxValue</key>
+                <real>1.0</real>
+                <key>minValue</key>
+                <real>0.0</real>
+                <key>rcenterx</key>
+                <integer>0</integer>
+                <key>rcentery</key>
+                <integer>0</integer>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>x</key>
+                <integer>20</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </array>
+            <key>outlines</key>
+            <array/>
+            <key>width</key>
+            <integer>1000</integer>
+          </dict>
+          <key>layerName</key>
+          <string></string>
+          <key>maxValue</key>
+          <real>1.0</real>
+          <key>minValue</key>
+          <real>0.0</real>
+        </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
