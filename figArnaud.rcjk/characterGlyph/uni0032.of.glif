@@ -16,7 +16,14 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>BOLD</key>
+            <real>0.0</real>
+            <key>BR_H_lo</key>
+            <real>0.0</real>
+            <key>WDTH</key>
+            <real>0.0</real>
+          </dict>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
@@ -30,9 +37,9 @@
           <key>rotation</key>
           <integer>0</integer>
           <key>scalex</key>
-          <integer>1</integer>
+          <real>1.0</real>
           <key>scaley</key>
-          <integer>1</integer>
+          <real>0.772</real>
           <key>x</key>
           <integer>-10</integer>
           <key>y</key>
