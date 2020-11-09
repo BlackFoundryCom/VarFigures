@@ -18,11 +18,11 @@
           <key>coord</key>
           <dict>
             <key>BOLD</key>
-            <real>0.0</real>
+            <real>0.251</real>
             <key>BR_H_lo</key>
-            <real>0.0</real>
+            <real>0.18</real>
             <key>WDTH</key>
-            <real>0.0</real>
+            <real>0.249</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
@@ -37,7 +37,7 @@
           <key>rotation</key>
           <integer>0</integer>
           <key>scalex</key>
-          <real>1.0</real>
+          <real>0.77</real>
           <key>scaley</key>
           <real>0.772</real>
           <key>x</key>
