@@ -15,7 +15,12 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>BOLD</key>
+            <integer>0</integer>
+            <key>WDTH</key>
+            <integer>0</integer>
+          </dict>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
