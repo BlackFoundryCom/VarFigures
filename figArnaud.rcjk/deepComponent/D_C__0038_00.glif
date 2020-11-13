@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="DC_0038_00" format="2">
-  <advance width="1000"/>
+  <advance width="999"/>
   <outline>
   </outline>
   <lib>
@@ -13,9 +13,9 @@
           <key>coord</key>
           <dict>
             <key>WDTH</key>
-            <real>0.3</real>
-            <key>XBLD</key>
-            <real>0.43</real>
+            <real>0.32</real>
+            <key>WGHT</key>
+            <real>0.465</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
@@ -41,7 +41,7 @@
       </array>
       <key>robocjk.glyphVariationGlyphs</key>
       <dict>
-        <key>BOLD</key>
+        <key>X_X_bo</key>
         <dict>
           <key>content</key>
           <dict>
@@ -51,8 +51,8 @@
                 <key>coord</key>
                 <dict>
                   <key>WDTH</key>
-                  <real>0.3</real>
-                  <key>XBLD</key>
+                  <real>0.32</real>
+                  <key>WGHT</key>
                   <real>1.0</real>
                 </dict>
                 <key>maxValue</key>
@@ -87,7 +87,7 @@
           <key>minValue</key>
           <real>0.0</real>
         </dict>
-        <key>WDTH</key>
+        <key>X_X_la</key>
         <dict>
           <key>content</key>
           <dict>
@@ -98,8 +98,8 @@
                 <dict>
                   <key>WDTH</key>
                   <real>1.0</real>
-                  <key>XBLD</key>
-                  <real>0.43</real>
+                  <key>WGHT</key>
+                  <real>0.465</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
