@@ -16,10 +16,10 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>BOLD</key>
+            <key>X_X_bo</key>
             <integer>0</integer>
-            <key>WDTH</key>
-            <integer>0</integer>
+            <key>X_X_la</key>
+            <real>0.0</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
