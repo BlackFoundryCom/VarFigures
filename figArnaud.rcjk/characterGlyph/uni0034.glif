@@ -62,17 +62,17 @@
                 <key>coord</key>
                 <dict>
                   <key>BR_H_lo</key>
-                  <integer>0</integer>
+                  <real>0.1</real>
                   <key>B_H_hi</key>
                   <integer>0</integer>
                   <key>T_DV_co</key>
-                  <real>0.25</real>
+                  <real>0.211</real>
                   <key>X_D_bo</key>
-                  <real>0.6</real>
+                  <real>0.45</real>
                   <key>X_H_bo</key>
-                  <real>0.6</real>
+                  <real>0.45</real>
                   <key>X_V_bo</key>
-                  <real>0.6</real>
+                  <real>0.45</real>
                   <key>X_X_la</key>
                   <integer>0</integer>
                 </dict>
@@ -87,7 +87,7 @@
                 <key>rotation</key>
                 <integer>0</integer>
                 <key>scalex</key>
-                <real>0.93</real>
+                <real>0.975</real>
                 <key>scaley</key>
                 <integer>1</integer>
                 <key>x</key>
