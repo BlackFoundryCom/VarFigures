@@ -1,6 +1,7 @@
-<glyph format="2" name="uni0034.tab">
-  <advance width="555" />
-  <unicode hex="0034" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0034.tab" format="2">
+  <advance width="555"/>
+  <unicode hex="0034"/>
   <outline>
   </outline>
   <lib>
@@ -96,7 +97,7 @@
               </dict>
             </array>
             <key>outlines</key>
-            <array />
+            <array/>
             <key>width</key>
             <integer>0</integer>
           </dict>
