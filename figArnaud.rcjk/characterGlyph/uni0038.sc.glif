@@ -54,7 +54,7 @@
                 <key>coord</key>
                 <dict>
                   <key>X_X_bo</key>
-                  <real>0.76</real>
+                  <real>0.8</real>
                   <key>X_X_la</key>
                   <real>0.0</real>
                 </dict>
@@ -73,7 +73,7 @@
                 <key>scaley</key>
                 <real>0.84</real>
                 <key>x</key>
-                <integer>-1</integer>
+                <integer>-3</integer>
                 <key>y</key>
                 <integer>-2</integer>
               </dict>
