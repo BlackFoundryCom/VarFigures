@@ -8,43 +8,7 @@
       <key>public.markColor</key>
       <string>1,0,0,1</string>
       <key>robocjk.deepComponents</key>
-      <array>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>DBLD</key>
-            <real>0.0</real>
-            <key>HBLD</key>
-            <real>0.03</real>
-            <key>HLON</key>
-            <integer>0</integer>
-            <key>WDTH</key>
-            <real>0.32</real>
-            <key>WGHT</key>
-            <real>0.42</real>
-          </dict>
-          <key>maxValue</key>
-          <real>1.0</real>
-          <key>minValue</key>
-          <real>0.0</real>
-          <key>name</key>
-          <string>two_00</string>
-          <key>rcenterx</key>
-          <integer>0</integer>
-          <key>rcentery</key>
-          <integer>0</integer>
-          <key>rotation</key>
-          <integer>0</integer>
-          <key>scalex</key>
-          <integer>1</integer>
-          <key>scaley</key>
-          <integer>1</integer>
-          <key>x</key>
-          <integer>14</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-      </array>
+      <array/>
       <key>robocjk.glyphVariationGlyphs</key>
       <dict>
         <key>BR_H_bo</key>
@@ -52,41 +16,7 @@
           <key>content</key>
           <dict>
             <key>deepComponents</key>
-            <array>
-              <dict>
-                <key>coord</key>
-                <dict>
-                  <key>DBLD</key>
-                  <real>0.0</real>
-                  <key>HBLD</key>
-                  <real>1.0</real>
-                  <key>HLON</key>
-                  <integer>0</integer>
-                  <key>WDTH</key>
-                  <real>0.32</real>
-                  <key>WGHT</key>
-                  <real>0.42</real>
-                </dict>
-                <key>maxValue</key>
-                <real>1.0</real>
-                <key>minValue</key>
-                <real>0.0</real>
-                <key>rcenterx</key>
-                <integer>0</integer>
-                <key>rcentery</key>
-                <integer>0</integer>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>x</key>
-                <integer>14</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </array>
+            <array/>
             <key>outlines</key>
             <array/>
             <key>width</key>
@@ -104,41 +34,7 @@
           <key>content</key>
           <dict>
             <key>deepComponents</key>
-            <array>
-              <dict>
-                <key>coord</key>
-                <dict>
-                  <key>DBLD</key>
-                  <real>0.0</real>
-                  <key>HBLD</key>
-                  <real>0.03</real>
-                  <key>HLON</key>
-                  <real>1.0</real>
-                  <key>WDTH</key>
-                  <real>0.32</real>
-                  <key>WGHT</key>
-                  <real>0.42</real>
-                </dict>
-                <key>maxValue</key>
-                <real>1.0</real>
-                <key>minValue</key>
-                <real>0.0</real>
-                <key>rcenterx</key>
-                <integer>0</integer>
-                <key>rcentery</key>
-                <integer>0</integer>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>x</key>
-                <integer>14</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </array>
+            <array/>
             <key>outlines</key>
             <array/>
             <key>width</key>
@@ -156,41 +52,7 @@
           <key>content</key>
           <dict>
             <key>deepComponents</key>
-            <array>
-              <dict>
-                <key>coord</key>
-                <dict>
-                  <key>DBLD</key>
-                  <real>1.0</real>
-                  <key>HBLD</key>
-                  <real>0.03</real>
-                  <key>HLON</key>
-                  <integer>0</integer>
-                  <key>WDTH</key>
-                  <real>0.32</real>
-                  <key>WGHT</key>
-                  <real>0.42</real>
-                </dict>
-                <key>maxValue</key>
-                <real>1.0</real>
-                <key>minValue</key>
-                <real>0.0</real>
-                <key>rcenterx</key>
-                <integer>0</integer>
-                <key>rcentery</key>
-                <integer>0</integer>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>x</key>
-                <integer>4</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </array>
+            <array/>
             <key>outlines</key>
             <array/>
             <key>width</key>
@@ -208,41 +70,7 @@
           <key>content</key>
           <dict>
             <key>deepComponents</key>
-            <array>
-              <dict>
-                <key>coord</key>
-                <dict>
-                  <key>DBLD</key>
-                  <real>0.0</real>
-                  <key>HBLD</key>
-                  <real>0.03</real>
-                  <key>HLON</key>
-                  <integer>0</integer>
-                  <key>WDTH</key>
-                  <real>0.32</real>
-                  <key>WGHT</key>
-                  <real>1.0</real>
-                </dict>
-                <key>maxValue</key>
-                <real>1.0</real>
-                <key>minValue</key>
-                <real>0.0</real>
-                <key>rcenterx</key>
-                <integer>0</integer>
-                <key>rcentery</key>
-                <integer>0</integer>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>x</key>
-                <integer>10</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </array>
+            <array/>
             <key>outlines</key>
             <array/>
             <key>width</key>
@@ -260,41 +88,7 @@
           <key>content</key>
           <dict>
             <key>deepComponents</key>
-            <array>
-              <dict>
-                <key>coord</key>
-                <dict>
-                  <key>DBLD</key>
-                  <real>0.0</real>
-                  <key>HBLD</key>
-                  <real>0.03</real>
-                  <key>HLON</key>
-                  <integer>0</integer>
-                  <key>WDTH</key>
-                  <real>1.0</real>
-                  <key>WGHT</key>
-                  <real>0.42</real>
-                </dict>
-                <key>maxValue</key>
-                <real>1.0</real>
-                <key>minValue</key>
-                <real>0.0</real>
-                <key>rcenterx</key>
-                <integer>0</integer>
-                <key>rcentery</key>
-                <integer>0</integer>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>x</key>
-                <integer>-16</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </array>
+            <array/>
             <key>outlines</key>
             <array/>
             <key>width</key>
