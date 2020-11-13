@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0036.tab" format="2">
-  <advance width="550"/>
+  <advance width="600"/>
   <unicode hex="0036"/>
   <outline>
   </outline>
@@ -37,7 +37,7 @@
           <key>scaley</key>
           <integer>1</integer>
           <key>x</key>
-          <integer>20</integer>
+          <integer>45</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
