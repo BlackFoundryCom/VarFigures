@@ -472,7 +472,7 @@
           <key>minValue</key>
           <real>0.0</real>
         </dict>
-        <key>LONH</key>
+        <key>HLON</key>
         <dict>
           <key>content</key>
           <dict>
@@ -614,7 +614,7 @@
             <integer>412</integer>
           </dict>
           <key>layerName</key>
-          <string>Longbar</string>
+          <string>longbar</string>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
