@@ -1,6 +1,7 @@
-<glyph format="2" name="uni0032.tab">
-  <advance width="500" />
-  <unicode hex="0032" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0032.tab" format="2">
+  <advance width="500"/>
+  <unicode hex="0032"/>
   <outline>
   </outline>
   <lib>
@@ -46,7 +47,7 @@
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
-      <dict />
+      <dict/>
     </dict>
   </lib>
 </glyph>
