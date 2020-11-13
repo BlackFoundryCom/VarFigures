@@ -13,7 +13,7 @@
           <key>coord</key>
           <dict>
             <key>WDTH</key>
-            <real>0.3</real>
+            <real>0.33</real>
             <key>WGHT</key>
             <real>0.45</real>
           </dict>
@@ -51,7 +51,7 @@
                 <key>coord</key>
                 <dict>
                   <key>WDTH</key>
-                  <real>0.3</real>
+                  <real>0.33</real>
                   <key>WGHT</key>
                   <real>1.0</real>
                 </dict>
