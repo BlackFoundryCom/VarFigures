@@ -41,11 +41,11 @@
           <key>scalex</key>
           <real>0.6</real>
           <key>scaley</key>
-          <real>0.657</real>
+          <real>0.66</real>
           <key>x</key>
           <integer>27</integer>
           <key>y</key>
-          <integer>-176</integer>
+          <integer>-178</integer>
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
