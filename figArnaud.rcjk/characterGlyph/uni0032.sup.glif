@@ -49,7 +49,7 @@
           <key>x</key>
           <integer>10</integer>
           <key>y</key>
-          <integer>-180</integer>
+          <integer>360</integer>
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
