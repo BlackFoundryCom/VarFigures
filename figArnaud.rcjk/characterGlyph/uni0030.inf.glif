@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0030.inf" format="2">
-  <advance width="580"/>
+  <advance width="465"/>
   <unicode hex="0030"/>
   <guideline x="314" y="460" angle="0" identifier="FMkPC6bKkr"/>
   <guideline x="338" y="600" angle="0" identifier="EoGMsDzyiV"/>
   <guideline x="335" y="612" angle="0" identifier="1aKatl1lvU"/>
   <guideline x="320" y="472" angle="0" identifier="K2ZNoeeRf9"/>
   <guideline x="261" y="-12" angle="0" identifier="A2tvfQYo8G"/>
+  <guideline x="371" y="400" angle="0" identifier="nCL2s72kuo"/>
+  <guideline x="354" y="406" angle="0" identifier="KGfRQ967m5"/>
+  <guideline x="303" y="-6" angle="0" identifier="EAxLkB0HPs"/>
   <outline>
   </outline>
   <lib>
@@ -19,7 +22,7 @@
           <key>coord</key>
           <dict>
             <key>X_X_bo</key>
-            <real>0.26</real>
+            <real>0.42</real>
             <key>X_X_la</key>
             <real>0.3</real>
           </dict>
@@ -36,13 +39,13 @@
           <key>rotation</key>
           <real>0.0</real>
           <key>scalex</key>
-          <real>0.76</real>
+          <real>0.6</real>
           <key>scaley</key>
-          <real>0.776</real>
+          <real>0.657</real>
           <key>x</key>
-          <integer>36</integer>
+          <integer>29</integer>
           <key>y</key>
-          <integer>-3</integer>
+          <integer>-96</integer>
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>

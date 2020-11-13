@@ -1,8 +1,9 @@
-<glyph format="2" name="uni0031.inf">
-  <advance width="350" />
-  <unicode hex="0031" />
-  <guideline angle="0" identifier="Gs2MtHRBHI" x="266" y="600" />
-  <guideline angle="0" identifier="XnlCkQGzYC" x="292" y="460" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0031.inf" format="2">
+  <advance width="350"/>
+  <unicode hex="0031"/>
+  <guideline x="266" y="600" angle="0" identifier="Gs2MtHRBHI"/>
+  <guideline x="292" y="460" angle="0" identifier="XnlCkQGzYC"/>
   <outline>
   </outline>
   <lib>
@@ -42,7 +43,7 @@
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
-      <dict />
+      <dict/>
     </dict>
   </lib>
 </glyph>
