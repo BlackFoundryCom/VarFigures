@@ -58,7 +58,7 @@
                   <key>X_X_bo</key>
                   <real>0.7</real>
                   <key>X_X_la</key>
-                  <integer>0</integer>
+                  <real>0.03</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
@@ -75,7 +75,7 @@
                 <key>scaley</key>
                 <integer>1</integer>
                 <key>x</key>
-                <integer>3</integer>
+                <integer>-1</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
