@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0034.inf" format="2">
-  <advance width="555"/>
+  <advance width="405"/>
   <unicode hex="0034"/>
+  <guideline x="353" y="401" angle="0" identifier="XUeevtKPVd"/>
   <outline>
   </outline>
   <lib>
@@ -18,13 +19,13 @@
             <key>B_H_hi</key>
             <integer>0</integer>
             <key>T_DV_co</key>
-            <integer>0</integer>
+            <real>0.117</real>
             <key>X_D_bo</key>
-            <integer>0</integer>
+            <real>0.17</real>
             <key>X_H_bo</key>
-            <integer>0</integer>
+            <real>0.225</real>
             <key>X_V_bo</key>
-            <integer>0</integer>
+            <real>0.18</real>
             <key>X_X_la</key>
             <integer>0</integer>
           </dict>
@@ -41,13 +42,13 @@
           <key>rotation</key>
           <integer>0</integer>
           <key>scalex</key>
-          <integer>1</integer>
+          <real>0.7</real>
           <key>scaley</key>
-          <integer>1</integer>
+          <real>0.668</real>
           <key>x</key>
           <integer>5</integer>
           <key>y</key>
-          <integer>0</integer>
+          <integer>-180</integer>
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
