@@ -12,10 +12,12 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>TBLD</key>
+            <real>0.2</real>
             <key>WDTH</key>
             <real>0.33</real>
-            <key>XBLD</key>
-            <real>0.45</real>
+            <key>WGHT</key>
+            <real>0.475</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
