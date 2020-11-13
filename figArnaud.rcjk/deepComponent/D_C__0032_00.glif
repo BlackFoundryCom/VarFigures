@@ -21,7 +21,7 @@
             <key>HLON</key>
             <integer>0</integer>
             <key>WDTH</key>
-            <real>0.35</real>
+            <real>0.32</real>
             <key>WGHT</key>
             <real>0.42</real>
           </dict>
@@ -67,7 +67,7 @@
                   <key>HLON</key>
                   <integer>0</integer>
                   <key>WDTH</key>
-                  <real>0.35</real>
+                  <real>0.32</real>
                   <key>WGHT</key>
                   <real>0.42</real>
                 </dict>
@@ -121,7 +121,7 @@
                   <key>HLON</key>
                   <real>1.0</real>
                   <key>WDTH</key>
-                  <real>0.35</real>
+                  <real>0.32</real>
                   <key>WGHT</key>
                   <real>0.42</real>
                 </dict>
@@ -175,7 +175,7 @@
                   <key>HLON</key>
                   <integer>0</integer>
                   <key>WDTH</key>
-                  <real>0.35</real>
+                  <real>0.32</real>
                   <key>WGHT</key>
                   <real>0.42</real>
                 </dict>
@@ -194,7 +194,7 @@
                 <key>scaley</key>
                 <integer>1</integer>
                 <key>x</key>
-                <integer>14</integer>
+                <integer>4</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
@@ -229,7 +229,7 @@
                   <key>HLON</key>
                   <integer>0</integer>
                   <key>WDTH</key>
-                  <real>0.35</real>
+                  <real>0.32</real>
                   <key>WGHT</key>
                   <real>0.42</real>
                 </dict>
@@ -283,7 +283,7 @@
                   <key>HLON</key>
                   <integer>0</integer>
                   <key>WDTH</key>
-                  <real>0.35</real>
+                  <real>0.32</real>
                   <key>WGHT</key>
                   <real>1.0</real>
                 </dict>
@@ -302,7 +302,7 @@
                 <key>scaley</key>
                 <integer>1</integer>
                 <key>x</key>
-                <integer>14</integer>
+                <integer>10</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
@@ -356,7 +356,7 @@
                 <key>scaley</key>
                 <integer>1</integer>
                 <key>x</key>
-                <integer>14</integer>
+                <integer>-16</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
