@@ -42,7 +42,7 @@
           <key>x</key>
           <integer>20</integer>
           <key>y</key>
-          <integer>-178</integer>
+          <integer>362</integer>
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
@@ -80,7 +80,7 @@
                 <key>x</key>
                 <integer>14</integer>
                 <key>y</key>
-                <integer>-178</integer>
+                <integer>362</integer>
               </dict>
             </array>
             <key>outlines</key>
