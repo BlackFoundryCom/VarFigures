@@ -1,8 +1,9 @@
-<glyph format="2" name="uni0035.sup">
-  <advance width="385" />
-  <unicode hex="0035" />
-  <guideline angle="0" identifier="EhZ2lXihVz" x="314" y="400" />
-  <guideline angle="0" identifier="rKYZDT7v8b" x="200" y="-6" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0035.sup" format="2">
+  <advance width="385"/>
+  <unicode hex="0035"/>
+  <guideline x="314" y="400" angle="0" identifier="EhZ2lXihVz"/>
+  <guideline x="200" y="-6" angle="0" identifier="rKYZDT7v8b"/>
   <outline>
   </outline>
   <lib>
@@ -78,7 +79,7 @@
               </dict>
             </array>
             <key>outlines</key>
-            <array />
+            <array/>
             <key>width</key>
             <integer>0</integer>
           </dict>
