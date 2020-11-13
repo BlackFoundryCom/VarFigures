@@ -25,7 +25,7 @@
             <key>VBLD</key>
             <real>0.415</real>
             <key>WDTH</key>
-            <real>0.37</real>
+            <real>0.5</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
@@ -73,7 +73,7 @@
                   <key>VBLD</key>
                   <real>0.415</real>
                   <key>WDTH</key>
-                  <real>0.37</real>
+                  <real>0.5</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
@@ -129,7 +129,7 @@
                   <key>VBLD</key>
                   <real>0.415</real>
                   <key>WDTH</key>
-                  <real>0.37</real>
+                  <real>0.5</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
@@ -185,7 +185,7 @@
                   <key>VBLD</key>
                   <real>0.415</real>
                   <key>WDTH</key>
-                  <real>0.37</real>
+                  <real>0.5</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
@@ -241,7 +241,7 @@
                   <key>VBLD</key>
                   <real>0.415</real>
                   <key>WDTH</key>
-                  <real>0.37</real>
+                  <real>0.5</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
@@ -297,7 +297,7 @@
                   <key>VBLD</key>
                   <real>0.415</real>
                   <key>WDTH</key>
-                  <real>0.37</real>
+                  <real>0.5</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
@@ -353,7 +353,7 @@
                   <key>VBLD</key>
                   <real>1.0</real>
                   <key>WDTH</key>
-                  <real>0.37</real>
+                  <real>0.5</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
