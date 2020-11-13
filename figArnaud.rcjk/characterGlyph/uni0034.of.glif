@@ -16,9 +16,9 @@
             <key>BR_H_lo</key>
             <integer>0</integer>
             <key>B_H_hi</key>
-            <integer>0</integer>
+            <real>0.14</real>
             <key>T_DV_co</key>
-            <integer>0</integer>
+            <real>0.03</real>
             <key>X_D_bo</key>
             <integer>0</integer>
             <key>X_H_bo</key>
@@ -64,9 +64,9 @@
                   <key>BR_H_lo</key>
                   <real>0.1</real>
                   <key>B_H_hi</key>
-                  <integer>0</integer>
+                  <real>0.33</real>
                   <key>T_DV_co</key>
-                  <real>0.211</real>
+                  <real>0.31</real>
                   <key>X_D_bo</key>
                   <real>0.45</real>
                   <key>X_H_bo</key>
