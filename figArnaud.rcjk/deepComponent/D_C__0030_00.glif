@@ -13,8 +13,8 @@
           <key>coord</key>
           <dict>
             <key>WDTH</key>
-            <real>0.32</real>
-            <key>XBLD</key>
+            <real>0.3</real>
+            <key>WGHT</key>
             <real>0.45</real>
           </dict>
           <key>maxValue</key>
@@ -22,7 +22,7 @@
           <key>minValue</key>
           <real>0.0</real>
           <key>name</key>
-          <string>zero_02</string>
+          <string>zero_00</string>
           <key>rcenterx</key>
           <integer>0</integer>
           <key>rcentery</key>
@@ -34,14 +34,14 @@
           <key>scaley</key>
           <integer>1</integer>
           <key>x</key>
-          <integer>20</integer>
+          <integer>0</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
       </array>
       <key>robocjk.glyphVariationGlyphs</key>
       <dict>
-        <key>BOLD</key>
+        <key>X_X_bo</key>
         <dict>
           <key>content</key>
           <dict>
@@ -51,8 +51,8 @@
                 <key>coord</key>
                 <dict>
                   <key>WDTH</key>
-                  <real>0.0</real>
-                  <key>XBLD</key>
+                  <real>0.3</real>
+                  <key>WGHT</key>
                   <real>1.0</real>
                 </dict>
                 <key>maxValue</key>
@@ -70,7 +70,7 @@
                 <key>scaley</key>
                 <integer>1</integer>
                 <key>x</key>
-                <integer>20</integer>
+                <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
@@ -87,7 +87,7 @@
           <key>minValue</key>
           <real>0.0</real>
         </dict>
-        <key>WDTH</key>
+        <key>X_X_la</key>
         <dict>
           <key>content</key>
           <dict>
@@ -98,7 +98,7 @@
                 <dict>
                   <key>WDTH</key>
                   <real>1.0</real>
-                  <key>XBLD</key>
+                  <key>WGHT</key>
                   <real>0.45</real>
                 </dict>
                 <key>maxValue</key>
@@ -116,7 +116,7 @@
                 <key>scaley</key>
                 <integer>1</integer>
                 <key>x</key>
-                <integer>20</integer>
+                <integer>0</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
