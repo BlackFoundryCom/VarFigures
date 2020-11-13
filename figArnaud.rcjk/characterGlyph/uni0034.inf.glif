@@ -17,7 +17,7 @@
             <key>BR_H_lo</key>
             <integer>0</integer>
             <key>B_H_hi</key>
-            <integer>0</integer>
+            <real>0.1</real>
             <key>T_DV_co</key>
             <real>0.117</real>
             <key>X_D_bo</key>
@@ -42,11 +42,11 @@
           <key>rotation</key>
           <integer>0</integer>
           <key>scalex</key>
-          <real>0.7</real>
+          <real>0.69</real>
           <key>scaley</key>
           <real>0.668</real>
           <key>x</key>
-          <integer>5</integer>
+          <integer>9</integer>
           <key>y</key>
           <integer>-180</integer>
         </dict>
