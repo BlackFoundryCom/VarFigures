@@ -62,7 +62,7 @@
                   <key>X_X_bo</key>
                   <real>1.0</real>
                   <key>X_X_la</key>
-                  <real>0.3</real>
+                  <real>0.0</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
@@ -75,13 +75,13 @@
                 <key>rotation</key>
                 <real>0.0</real>
                 <key>scalex</key>
-                <real>0.6</real>
+                <real>0.7</real>
                 <key>scaley</key>
-                <real>0.657</real>
+                <real>0.66</real>
                 <key>x</key>
-                <integer>27</integer>
+                <integer>1</integer>
                 <key>y</key>
-                <integer>-176</integer>
+                <integer>-178</integer>
               </dict>
             </array>
             <key>outlines</key>
