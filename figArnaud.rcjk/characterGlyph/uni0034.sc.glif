@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0034.sc" format="2">
-  <advance width="555"/>
+  <advance width="505"/>
   <unicode hex="0034"/>
   <outline>
   </outline>
@@ -18,11 +18,11 @@
             <key>B_H_hi</key>
             <integer>0</integer>
             <key>T_DV_co</key>
-            <integer>0</integer>
+            <real>0.045</real>
             <key>X_D_bo</key>
-            <integer>0</integer>
+            <real>0.06</real>
             <key>X_H_bo</key>
-            <integer>0</integer>
+            <real>0.12</real>
             <key>X_V_bo</key>
             <integer>0</integer>
             <key>X_X_la</key>
@@ -41,11 +41,11 @@
           <key>rotation</key>
           <integer>0</integer>
           <key>scalex</key>
-          <integer>1</integer>
+          <real>0.87</real>
           <key>scaley</key>
-          <integer>1</integer>
+          <real>0.834</real>
           <key>x</key>
-          <integer>5</integer>
+          <integer>10</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
