@@ -1,10 +1,11 @@
-<glyph format="2" name="uni0031.sup">
-  <advance width="300" />
-  <unicode hex="0031" />
-  <guideline angle="0" identifier="Gs2MtHRBHI" x="266" y="600" />
-  <guideline angle="0" identifier="XnlCkQGzYC" x="292" y="460" />
-  <guideline angle="0" identifier="Yz2t5hdb7W" x="196" y="400" />
-  <guideline angle="0" identifier="RjKOW3EbqK" x="229" y="406" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0031.sup" format="2">
+  <advance width="300"/>
+  <unicode hex="0031"/>
+  <guideline x="266" y="600" angle="0" identifier="Gs2MtHRBHI"/>
+  <guideline x="292" y="460" angle="0" identifier="XnlCkQGzYC"/>
+  <guideline x="196" y="400" angle="0" identifier="Yz2t5hdb7W"/>
+  <guideline x="229" y="406" angle="0" identifier="RjKOW3EbqK"/>
   <outline>
   </outline>
   <lib>
@@ -40,7 +41,7 @@
           <key>x</key>
           <integer>32</integer>
           <key>y</key>
-          <integer>-180</integer>
+          <integer>360</integer>
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
@@ -76,11 +77,11 @@
                 <key>x</key>
                 <integer>-5</integer>
                 <key>y</key>
-                <integer>-180</integer>
+                <integer>360</integer>
               </dict>
             </array>
             <key>outlines</key>
-            <array />
+            <array/>
             <key>width</key>
             <integer>0</integer>
           </dict>
