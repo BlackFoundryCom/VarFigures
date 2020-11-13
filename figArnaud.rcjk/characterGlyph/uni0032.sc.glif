@@ -1,10 +1,11 @@
-<glyph format="2" name="uni0032.sc">
-  <advance width="470" />
-  <unicode hex="0032" />
-  <guideline angle="0" identifier="vlQUuu9Rj0" x="273" y="612" />
-  <guideline angle="0" identifier="RfvLWjM9OZ" x="278" y="600" />
-  <guideline angle="0" identifier="fFjRG7ieOu" x="349" y="460" />
-  <guideline angle="0" identifier="ltLIQWkCMk" x="350" y="472" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0032.sc" format="2">
+  <advance width="470"/>
+  <unicode hex="0032"/>
+  <guideline x="273" y="612" angle="0" identifier="vlQUuu9Rj0"/>
+  <guideline x="278" y="600" angle="0" identifier="RfvLWjM9OZ"/>
+  <guideline x="349" y="460" angle="0" identifier="fFjRG7ieOu"/>
+  <guideline x="350" y="472" angle="0" identifier="ltLIQWkCMk"/>
   <outline>
   </outline>
   <lib>
@@ -50,7 +51,7 @@
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
-      <dict />
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -1,8 +1,9 @@
-<glyph format="2" name="uni0031.sc">
-  <advance width="350" />
-  <unicode hex="0031" />
-  <guideline angle="0" identifier="Gs2MtHRBHI" x="266" y="600" />
-  <guideline angle="0" identifier="XnlCkQGzYC" x="292" y="460" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0031.sc" format="2">
+  <advance width="350"/>
+  <unicode hex="0031"/>
+  <guideline x="266" y="600" angle="0" identifier="Gs2MtHRBHI"/>
+  <guideline x="292" y="460" angle="0" identifier="XnlCkQGzYC"/>
   <outline>
   </outline>
   <lib>
@@ -15,9 +16,9 @@
           <key>coord</key>
           <dict>
             <key>T_H_lo</key>
-            <real>0.244</real>
+            <real>0.22</real>
             <key>X_X_bo</key>
-            <real>0.33</real>
+            <real>0.236</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
@@ -32,17 +33,17 @@
           <key>rotation</key>
           <integer>0</integer>
           <key>scalex</key>
-          <real>0.74</real>
+          <real>0.81</real>
           <key>scaley</key>
-          <real>0.767</real>
+          <real>0.834</real>
           <key>x</key>
-          <integer>22</integer>
+          <integer>31</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
-      <dict />
+      <dict/>
     </dict>
   </lib>
 </glyph>
