@@ -13,26 +13,26 @@
           <key>coord</key>
           <dict>
             <key>DBLD</key>
-            <real>0.35</real>
+            <real>0.36</real>
             <key>HBAR</key>
-            <real>0.2</real>
+            <integer>0</integer>
             <key>HBLD</key>
-            <real>0.4</real>
-            <key>LONH</key>
+            <real>0.418</real>
+            <key>HLON</key>
             <integer>0</integer>
             <key>TOPC</key>
-            <real>0.15</real>
+            <real>0.12</real>
             <key>VBLD</key>
-            <real>0.38</real>
+            <real>0.425</real>
             <key>WDTH</key>
-            <real>0.45</real>
+            <real>0.35</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
           <real>0.0</real>
           <key>name</key>
-          <string>four_02</string>
+          <string>four_00</string>
           <key>rcenterx</key>
           <integer>0</integer>
           <key>rcentery</key>
@@ -44,7 +44,7 @@
           <key>scaley</key>
           <integer>1</integer>
           <key>x</key>
-          <integer>20</integer>
+          <integer>0</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
