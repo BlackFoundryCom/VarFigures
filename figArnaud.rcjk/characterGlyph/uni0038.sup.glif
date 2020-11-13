@@ -1,0 +1,54 @@
+<glyph format="2" name="uni0038.sup">
+  <advance width="425" />
+  <unicode hex="0038" />
+  <guideline angle="0" identifier="qiwYGRPyRU" x="303" y="612" />
+  <guideline angle="0" identifier="VnxaZwvuyp" x="281" y="600" />
+  <guideline angle="0" identifier="mnna1N8AaY" x="278" y="-12" />
+  <guideline angle="0" identifier="Dd0iKrBAFd" x="307" y="460" />
+  <guideline angle="0" identifier="6U5wSPU7Bs" x="284" y="472" />
+  <guideline angle="0" identifier="caseZq3qjK" x="276" y="400" />
+  <guideline angle="0" identifier="efxtQNlT6e" x="417" y="406" />
+  <guideline angle="0" identifier="nuhGZTixUV" x="417" y="-6" />
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>X_X_bo</key>
+            <real>0.43</real>
+            <key>X_X_la</key>
+            <real>0.225</real>
+          </dict>
+          <key>maxValue</key>
+          <real>1.0</real>
+          <key>minValue</key>
+          <real>0.0</real>
+          <key>name</key>
+          <string>DC_0038_00</string>
+          <key>rcenterx</key>
+          <integer>0</integer>
+          <key>rcentery</key>
+          <integer>0</integer>
+          <key>rotation</key>
+          <integer>0</integer>
+          <key>scalex</key>
+          <real>0.6</real>
+          <key>scaley</key>
+          <real>0.66</real>
+          <key>x</key>
+          <integer>29</integer>
+          <key>y</key>
+          <integer>-178</integer>
+        </dict>
+      </array>
+      <key>robocjk.fontVariationGlyphs</key>
+      <dict />
+    </dict>
+  </lib>
+</glyph>
