@@ -1,6 +1,7 @@
-<glyph format="2" name="uni0038.of">
-  <advance width="555" />
-  <unicode hex="0038" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0038.of" format="2">
+  <advance width="555"/>
+  <unicode hex="0038"/>
   <outline>
   </outline>
   <lib>
@@ -11,7 +12,7 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict />
+          <dict/>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
@@ -35,7 +36,7 @@
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
-      <dict />
+      <dict/>
     </dict>
   </lib>
 </glyph>

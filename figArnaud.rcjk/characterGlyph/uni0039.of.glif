@@ -1,6 +1,9 @@
-<glyph format="2" name="uni0039.of">
-  <advance width="550" />
-  <unicode hex="0039" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0039.of" format="2">
+  <advance width="550"/>
+  <unicode hex="0039"/>
+  <guideline x="294" y="460" angle="0" identifier="2cfH7vkMJ2"/>
+  <guideline x="340" y="472" angle="0" identifier="FtD6mf594H"/>
   <outline>
   </outline>
   <lib>
@@ -11,7 +14,14 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict />
+          <dict>
+            <key>B_D_bo</key>
+            <integer>0</integer>
+            <key>X_X_bo</key>
+            <integer>0</integer>
+            <key>X_X_la</key>
+            <integer>0</integer>
+          </dict>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
@@ -31,11 +41,11 @@
           <key>x</key>
           <integer>19</integer>
           <key>y</key>
-          <integer>0</integer>
+          <integer>-140</integer>
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
-      <dict />
+      <dict/>
     </dict>
   </lib>
 </glyph>
