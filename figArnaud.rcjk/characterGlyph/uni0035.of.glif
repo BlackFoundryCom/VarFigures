@@ -1,6 +1,8 @@
-<glyph format="2" name="uni0035.of">
-  <advance width="515" />
-  <unicode hex="0035" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0035.of" format="2">
+  <advance width="515"/>
+  <unicode hex="0035"/>
+  <guideline x="360" y="460" angle="0" identifier="IurljfDkw7"/>
   <outline>
   </outline>
   <lib>
@@ -36,11 +38,11 @@
           <key>x</key>
           <integer>30</integer>
           <key>y</key>
-          <integer>0</integer>
+          <integer>-140</integer>
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
-      <dict />
+      <dict/>
     </dict>
   </lib>
 </glyph>
