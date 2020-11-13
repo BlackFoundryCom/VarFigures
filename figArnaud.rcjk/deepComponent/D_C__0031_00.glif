@@ -13,9 +13,9 @@
           <key>coord</key>
           <dict>
             <key>HLON</key>
-            <real>0.15</real>
-            <key>XBLD</key>
-            <real>0.45</real>
+            <real>0.08</real>
+            <key>WGHT</key>
+            <real>0.44</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
@@ -41,7 +41,7 @@
       </array>
       <key>robocjk.glyphVariationGlyphs</key>
       <dict>
-        <key>BOLD</key>
+        <key>T_H_lo</key>
         <dict>
           <key>content</key>
           <dict>
@@ -51,9 +51,9 @@
                 <key>coord</key>
                 <dict>
                   <key>HLON</key>
-                  <real>0.15</real>
-                  <key>XBLD</key>
                   <real>1.0</real>
+                  <key>WGHT</key>
+                  <real>0.44</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
@@ -87,7 +87,7 @@
           <key>minValue</key>
           <real>0.0</real>
         </dict>
-        <key>HLON</key>
+        <key>X_X_bo</key>
         <dict>
           <key>content</key>
           <dict>
@@ -97,9 +97,9 @@
                 <key>coord</key>
                 <dict>
                   <key>HLON</key>
+                  <real>0.08</real>
+                  <key>WGHT</key>
                   <real>1.0</real>
-                  <key>XBLD</key>
-                  <real>0.45</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
@@ -116,7 +116,7 @@
                 <key>scaley</key>
                 <integer>1</integer>
                 <key>x</key>
-                <integer>-56</integer>
+                <integer>3</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
