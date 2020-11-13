@@ -15,13 +15,15 @@
             <key>DANG</key>
             <integer>0</integer>
             <key>DBLD</key>
-            <integer>0</integer>
-            <key>LBAR</key>
+            <real>0.0</real>
+            <key>HBLD</key>
+            <real>0.03</real>
+            <key>HLON</key>
             <integer>0</integer>
             <key>WDTH</key>
             <real>0.35</real>
-            <key>XBLD</key>
-            <real>0.45</real>
+            <key>WGHT</key>
+            <real>0.42</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
@@ -47,7 +49,7 @@
       </array>
       <key>robocjk.glyphVariationGlyphs</key>
       <dict>
-        <key>BOLD</key>
+        <key>BR_H_bo</key>
         <dict>
           <key>content</key>
           <dict>
@@ -57,15 +59,17 @@
                 <key>coord</key>
                 <dict>
                   <key>DANG</key>
-                  <real>0.0</real>
+                  <integer>0</integer>
                   <key>DBLD</key>
                   <real>0.0</real>
-                  <key>LBAR</key>
-                  <real>0.0</real>
+                  <key>HBLD</key>
+                  <real>1.0</real>
+                  <key>HLON</key>
+                  <integer>0</integer>
                   <key>WDTH</key>
                   <real>0.35</real>
-                  <key>XBLD</key>
-                  <real>1.0</real>
+                  <key>WGHT</key>
+                  <real>0.42</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
@@ -111,13 +115,15 @@
                   <key>DANG</key>
                   <integer>0</integer>
                   <key>DBLD</key>
-                  <integer>0</integer>
-                  <key>LBAR</key>
+                  <real>0.0</real>
+                  <key>HBLD</key>
+                  <real>0.03</real>
+                  <key>HLON</key>
                   <real>1.0</real>
                   <key>WDTH</key>
                   <real>0.35</real>
-                  <key>XBLD</key>
-                  <real>0.45</real>
+                  <key>WGHT</key>
+                  <real>0.42</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
@@ -151,7 +157,7 @@
           <key>minValue</key>
           <real>0.0</real>
         </dict>
-        <key>WDTH</key>
+        <key>M_D_bo</key>
         <dict>
           <key>content</key>
           <dict>
@@ -161,15 +167,179 @@
                 <key>coord</key>
                 <dict>
                   <key>DANG</key>
-                  <real>0.0</real>
+                  <integer>0</integer>
+                  <key>DBLD</key>
+                  <real>1.0</real>
+                  <key>HBLD</key>
+                  <real>0.03</real>
+                  <key>HLON</key>
+                  <integer>0</integer>
+                  <key>WDTH</key>
+                  <real>0.35</real>
+                  <key>WGHT</key>
+                  <real>0.42</real>
+                </dict>
+                <key>maxValue</key>
+                <real>1.0</real>
+                <key>minValue</key>
+                <real>0.0</real>
+                <key>rcenterx</key>
+                <integer>0</integer>
+                <key>rcentery</key>
+                <integer>0</integer>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>x</key>
+                <integer>14</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </array>
+            <key>outlines</key>
+            <array/>
+            <key>width</key>
+            <integer>1000</integer>
+          </dict>
+          <key>layerName</key>
+          <string></string>
+          <key>maxValue</key>
+          <real>1.0</real>
+          <key>minValue</key>
+          <real>0.0</real>
+        </dict>
+        <key>M_D_sl</key>
+        <dict>
+          <key>content</key>
+          <dict>
+            <key>deepComponents</key>
+            <array>
+              <dict>
+                <key>coord</key>
+                <dict>
+                  <key>DANG</key>
+                  <real>1.0</real>
                   <key>DBLD</key>
                   <real>0.0</real>
-                  <key>LBAR</key>
+                  <key>HBLD</key>
+                  <real>0.03</real>
+                  <key>HLON</key>
+                  <integer>0</integer>
+                  <key>WDTH</key>
+                  <real>0.35</real>
+                  <key>WGHT</key>
+                  <real>0.42</real>
+                </dict>
+                <key>maxValue</key>
+                <real>1.0</real>
+                <key>minValue</key>
+                <real>0.0</real>
+                <key>rcenterx</key>
+                <integer>0</integer>
+                <key>rcentery</key>
+                <integer>0</integer>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>x</key>
+                <integer>14</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </array>
+            <key>outlines</key>
+            <array/>
+            <key>width</key>
+            <integer>1000</integer>
+          </dict>
+          <key>layerName</key>
+          <string></string>
+          <key>maxValue</key>
+          <real>1.0</real>
+          <key>minValue</key>
+          <real>0.0</real>
+        </dict>
+        <key>X_X_bo</key>
+        <dict>
+          <key>content</key>
+          <dict>
+            <key>deepComponents</key>
+            <array>
+              <dict>
+                <key>coord</key>
+                <dict>
+                  <key>DANG</key>
+                  <integer>0</integer>
+                  <key>DBLD</key>
                   <real>0.0</real>
+                  <key>HBLD</key>
+                  <real>0.03</real>
+                  <key>HLON</key>
+                  <integer>0</integer>
+                  <key>WDTH</key>
+                  <real>0.35</real>
+                  <key>WGHT</key>
+                  <real>1.0</real>
+                </dict>
+                <key>maxValue</key>
+                <real>1.0</real>
+                <key>minValue</key>
+                <real>0.0</real>
+                <key>rcenterx</key>
+                <integer>0</integer>
+                <key>rcentery</key>
+                <integer>0</integer>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>x</key>
+                <integer>14</integer>
+                <key>y</key>
+                <integer>0</integer>
+              </dict>
+            </array>
+            <key>outlines</key>
+            <array/>
+            <key>width</key>
+            <integer>1000</integer>
+          </dict>
+          <key>layerName</key>
+          <string></string>
+          <key>maxValue</key>
+          <real>1.0</real>
+          <key>minValue</key>
+          <real>0.0</real>
+        </dict>
+        <key>X_X_la</key>
+        <dict>
+          <key>content</key>
+          <dict>
+            <key>deepComponents</key>
+            <array>
+              <dict>
+                <key>coord</key>
+                <dict>
+                  <key>DANG</key>
+                  <integer>0</integer>
+                  <key>DBLD</key>
+                  <real>0.0</real>
+                  <key>HBLD</key>
+                  <real>0.03</real>
+                  <key>HLON</key>
+                  <integer>0</integer>
                   <key>WDTH</key>
                   <real>1.0</real>
-                  <key>XBLD</key>
-                  <real>0.45</real>
+                  <key>WGHT</key>
+                  <real>0.42</real>
                 </dict>
                 <key>maxValue</key>
                 <real>1.0</real>
