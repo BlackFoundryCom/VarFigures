@@ -1058,7 +1058,7 @@
             <integer>667</integer>
           </dict>
           <key>layerName</key>
-          <string>Extended</string>
+          <string>extended</string>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
