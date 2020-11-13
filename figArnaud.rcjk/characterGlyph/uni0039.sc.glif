@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0039.sc" format="2">
-  <advance width="550"/>
+  <advance width="490"/>
   <unicode hex="0039"/>
+  <guideline x="471" y="512" angle="0" identifier="RtQctsaGYh"/>
   <outline>
   </outline>
   <lib>
@@ -12,7 +13,14 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>B_D_bo</key>
+            <integer>0</integer>
+            <key>X_X_bo</key>
+            <real>0.204</real>
+            <key>X_X_la</key>
+            <real>0.05</real>
+          </dict>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
@@ -26,11 +34,11 @@
           <key>rotation</key>
           <integer>0</integer>
           <key>scalex</key>
-          <integer>1</integer>
+          <real>0.84</real>
           <key>scaley</key>
-          <integer>1</integer>
+          <real>0.837</real>
           <key>x</key>
-          <integer>19</integer>
+          <integer>15</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
