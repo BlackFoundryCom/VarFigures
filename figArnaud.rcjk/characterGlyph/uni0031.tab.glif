@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0031.tab" format="2">
-  <advance width="350"/>
+  <advance width="600"/>
   <unicode hex="0031"/>
   <outline>
   </outline>
@@ -14,7 +14,7 @@
           <key>coord</key>
           <dict>
             <key>T_H_lo</key>
-            <integer>0</integer>
+            <real>0.398</real>
             <key>X_X_bo</key>
             <integer>0</integer>
           </dict>
@@ -35,7 +35,7 @@
           <key>scaley</key>
           <integer>1</integer>
           <key>x</key>
-          <integer>-1</integer>
+          <integer>134</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
@@ -52,7 +52,7 @@
                 <key>coord</key>
                 <dict>
                   <key>T_H_lo</key>
-                  <integer>0</integer>
+                  <real>0.301</real>
                   <key>X_X_bo</key>
                   <real>0.7</real>
                 </dict>
@@ -71,7 +71,7 @@
                 <key>scaley</key>
                 <integer>1</integer>
                 <key>x</key>
-                <integer>-23</integer>
+                <integer>107</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
