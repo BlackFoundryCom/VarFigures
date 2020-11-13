@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0038.inf" format="2">
-  <advance width="555"/>
+  <advance width="405"/>
   <unicode hex="0038"/>
   <guideline x="303" y="612" angle="0" identifier="qiwYGRPyRU"/>
   <guideline x="281" y="600" angle="0" identifier="VnxaZwvuyp"/>
@@ -24,7 +24,7 @@
             <key>X_X_bo</key>
             <real>0.43</real>
             <key>X_X_la</key>
-            <real>0.15</real>
+            <real>0.175</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
