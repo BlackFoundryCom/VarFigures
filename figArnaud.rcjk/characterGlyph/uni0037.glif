@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0037" format="2">
-  <advance width="580"/>
+  <advance width="550"/>
   <unicode hex="0037"/>
   <outline>
   </outline>
@@ -12,7 +12,16 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>M_D_bo</key>
+            <integer>0</integer>
+            <key>T_H_bo</key>
+            <integer>0</integer>
+            <key>X_X_bo</key>
+            <integer>0</integer>
+            <key>X_X_la</key>
+            <integer>0</integer>
+          </dict>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
@@ -30,7 +39,7 @@
           <key>scaley</key>
           <integer>1</integer>
           <key>x</key>
-          <integer>18</integer>
+          <integer>6</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
