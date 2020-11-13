@@ -1,6 +1,7 @@
-<glyph format="2" name="uni0033.of">
-  <advance width="515" />
-  <unicode hex="0033" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0033.of" format="2">
+  <advance width="515"/>
+  <unicode hex="0033"/>
   <outline>
   </outline>
   <lib>
@@ -76,7 +77,7 @@
               </dict>
             </array>
             <key>outlines</key>
-            <array />
+            <array/>
             <key>width</key>
             <integer>0</integer>
           </dict>
