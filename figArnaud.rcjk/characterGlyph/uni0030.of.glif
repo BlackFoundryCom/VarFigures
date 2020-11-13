@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0030.of" format="2">
-  <advance width="600"/>
+  <advance width="580"/>
   <unicode hex="0030"/>
   <guideline x="314" y="460" angle="0" identifier="FMkPC6bKkr"/>
   <guideline x="338" y="600" angle="0" identifier="EoGMsDzyiV"/>
@@ -19,9 +19,9 @@
           <key>coord</key>
           <dict>
             <key>X_X_bo</key>
-            <integer>0</integer>
+            <real>0.26</real>
             <key>X_X_la</key>
-            <integer>0</integer>
+            <real>0.3</real>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
@@ -40,7 +40,7 @@
           <key>scaley</key>
           <real>0.776</real>
           <key>x</key>
-          <integer>25</integer>
+          <integer>36</integer>
           <key>y</key>
           <integer>-3</integer>
         </dict>
