@@ -74,7 +74,7 @@
                 <string>moveTo</string>
                 <array>
                   <array>
-                    <integer>93</integer>
+                    <integer>43</integer>
                     <integer>575</integer>
                   </array>
                 </array>
@@ -110,7 +110,7 @@
                 <string>lineTo</string>
                 <array>
                   <array>
-                    <integer>93</integer>
+                    <integer>43</integer>
                     <integer>600</integer>
                   </array>
                 </array>
@@ -125,6 +125,114 @@
           </dict>
           <key>layerName</key>
           <string>diabold</string>
+          <key>maxValue</key>
+          <real>1.0</real>
+          <key>minValue</key>
+          <real>0.0</real>
+        </dict>
+        <key>HBLD</key>
+        <dict>
+          <key>content</key>
+          <dict>
+            <key>deepComponents</key>
+            <array/>
+            <key>outlines</key>
+            <array>
+              <array>
+                <string>moveTo</string>
+                <array>
+                  <array>
+                    <integer>30</integer>
+                    <integer>0</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>lineTo</string>
+                <array>
+                  <array>
+                    <integer>58</integer>
+                    <integer>0</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>lineTo</string>
+                <array>
+                  <array>
+                    <integer>282</integer>
+                    <integer>580</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>lineTo</string>
+                <array>
+                  <array>
+                    <integer>254</integer>
+                    <integer>580</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>closePath</string>
+                <array/>
+              </array>
+              <array>
+                <string>moveTo</string>
+                <array>
+                  <array>
+                    <integer>43</integer>
+                    <integer>475</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>lineTo</string>
+                <array>
+                  <array>
+                    <integer>222</integer>
+                    <integer>475</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>lineTo</string>
+                <array>
+                  <array>
+                    <integer>282</integer>
+                    <integer>580</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>lineTo</string>
+                <array>
+                  <array>
+                    <integer>282</integer>
+                    <integer>600</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>lineTo</string>
+                <array>
+                  <array>
+                    <integer>43</integer>
+                    <integer>600</integer>
+                  </array>
+                </array>
+              </array>
+              <array>
+                <string>closePath</string>
+                <array/>
+              </array>
+            </array>
+            <key>width</key>
+            <integer>312</integer>
+          </dict>
+          <key>layerName</key>
+          <string>horibold</string>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
@@ -238,7 +346,7 @@
           <key>minValue</key>
           <real>0.0</real>
         </dict>
-        <key>XBLD</key>
+        <key>WGHT</key>
         <dict>
           <key>content</key>
           <dict>
