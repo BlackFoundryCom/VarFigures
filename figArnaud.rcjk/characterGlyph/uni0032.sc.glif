@@ -21,11 +21,11 @@
             <key>BR_H_bo</key>
             <integer>0</integer>
             <key>BR_H_lo</key>
-            <real>0.03</real>
+            <real>0.0</real>
             <key>M_D_bo</key>
             <integer>0</integer>
             <key>X_X_bo</key>
-            <real>0.25</real>
+            <real>0.19</real>
             <key>X_X_la</key>
             <real>0.2</real>
           </dict>
@@ -42,11 +42,11 @@
           <key>rotation</key>
           <integer>0</integer>
           <key>scalex</key>
-          <real>0.77</real>
+          <real>0.79</real>
           <key>scaley</key>
           <real>0.837</real>
           <key>x</key>
-          <integer>25</integer>
+          <integer>23</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
