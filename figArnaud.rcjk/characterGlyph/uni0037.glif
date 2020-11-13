@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0037" format="2">
-  <advance width="550"/>
+  <advance width="530"/>
   <unicode hex="0037"/>
   <outline>
   </outline>
@@ -39,7 +39,7 @@
           <key>scaley</key>
           <integer>1</integer>
           <key>x</key>
-          <integer>6</integer>
+          <integer>-4</integer>
           <key>y</key>
           <integer>0</integer>
         </dict>
@@ -75,11 +75,11 @@
                 <key>rotation</key>
                 <integer>0</integer>
                 <key>scalex</key>
-                <real>0.93</real>
+                <real>0.92</real>
                 <key>scaley</key>
                 <integer>1</integer>
                 <key>x</key>
-                <integer>6</integer>
+                <integer>2</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
