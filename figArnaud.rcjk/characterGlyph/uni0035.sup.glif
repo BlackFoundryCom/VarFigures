@@ -1,0 +1,48 @@
+<glyph format="2" name="uni0035.sup">
+  <advance width="385" />
+  <unicode hex="0035" />
+  <guideline angle="0" identifier="EhZ2lXihVz" x="314" y="400" />
+  <guideline angle="0" identifier="rKYZDT7v8b" x="200" y="-6" />
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>X_X_bo</key>
+            <real>0.33</real>
+            <key>X_X_la</key>
+            <real>0.1</real>
+          </dict>
+          <key>maxValue</key>
+          <real>1.0</real>
+          <key>minValue</key>
+          <real>0.0</real>
+          <key>name</key>
+          <string>DC_0035_00</string>
+          <key>rcenterx</key>
+          <integer>0</integer>
+          <key>rcentery</key>
+          <integer>0</integer>
+          <key>rotation</key>
+          <integer>0</integer>
+          <key>scalex</key>
+          <real>0.66</real>
+          <key>scaley</key>
+          <real>0.664</real>
+          <key>x</key>
+          <integer>27</integer>
+          <key>y</key>
+          <integer>-178</integer>
+        </dict>
+      </array>
+      <key>robocjk.fontVariationGlyphs</key>
+      <dict />
+    </dict>
+  </lib>
+</glyph>
