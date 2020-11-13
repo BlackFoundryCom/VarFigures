@@ -118,7 +118,7 @@
             <integer>369</integer>
           </dict>
           <key>layerName</key>
-          <string>longertopbar</string>
+          <string>longbar</string>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
