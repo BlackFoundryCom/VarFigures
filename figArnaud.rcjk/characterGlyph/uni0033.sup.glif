@@ -1,9 +1,10 @@
-<glyph format="2" name="uni0033.sup">
-  <advance width="355" />
-  <unicode hex="0033" />
-  <guideline angle="0" identifier="UomLSw6vbN" x="543" y="406" />
-  <guideline angle="0" identifier="LtMSrWkEf2" x="500" y="400" />
-  <guideline angle="0" identifier="eSNKivHTmd" x="247" y="-6" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0033.sup" format="2">
+  <advance width="355"/>
+  <unicode hex="0033"/>
+  <guideline x="543" y="406" angle="0" identifier="UomLSw6vbN"/>
+  <guideline x="500" y="400" angle="0" identifier="LtMSrWkEf2"/>
+  <guideline x="247" y="-6" angle="0" identifier="eSNKivHTmd"/>
   <outline>
   </outline>
   <lib>
@@ -79,7 +80,7 @@
               </dict>
             </array>
             <key>outlines</key>
-            <array />
+            <array/>
             <key>width</key>
             <integer>0</integer>
           </dict>
