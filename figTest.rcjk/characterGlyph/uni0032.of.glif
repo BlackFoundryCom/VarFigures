@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0032.of" format="2">
+  <advance width="500"/>
+  <unicode hex="0032"/>
+  <guideline x="273" y="612" angle="0" identifier="vlQUuu9Rj0"/>
+  <guideline x="278" y="600" angle="0" identifier="RfvLWjM9OZ"/>
+  <guideline x="349" y="460" angle="0" identifier="fFjRG7ieOu"/>
+  <guideline x="350" y="472" angle="0" identifier="ltLIQWkCMk"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>BOLD</key>
+            <real>0.251</real>
+            <key>BR_H_lo</key>
+            <real>0.18</real>
+            <key>WDTH</key>
+            <real>0.249</real>
+          </dict>
+          <key>maxValue</key>
+          <real>1.0</real>
+          <key>minValue</key>
+          <real>0.0</real>
+          <key>name</key>
+          <string>DC_0032_00</string>
+          <key>rcenterx</key>
+          <integer>0</integer>
+          <key>rcentery</key>
+          <integer>0</integer>
+          <key>rotation</key>
+          <integer>0</integer>
+          <key>scalex</key>
+          <real>0.77</real>
+          <key>scaley</key>
+          <real>0.772</real>
+          <key>x</key>
+          <integer>-10</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>robocjk.fontVariationGlyphs</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

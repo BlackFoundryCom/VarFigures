@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero_00" format="2">
+  <advance width="546"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="477" y="389" type="curve" smooth="yes"/>
+      <point x="477.0" y="513.0"/>
+      <point x="416.0" y="587.0"/>
+      <point x="312" y="587" type="curve" smooth="yes"/>
+      <point x="174.0" y="587.0"/>
+      <point x="69.0" y="424.0"/>
+      <point x="69" y="211" type="curve"/>
+      <point x="69.0" y="87.0"/>
+      <point x="130.0" y="13"/>
+      <point x="234" y="13" type="curve" smooth="yes"/>
+      <point x="372.0" y="13.0"/>
+      <point x="477.0" y="176.0"/>
+    </contour>
+    <contour>
+      <point x="507" y="393" type="curve" smooth="yes"/>
+      <point x="507.0" y="163.0"/>
+      <point x="388.0" y="-12.0"/>
+      <point x="231" y="-12" type="curve" smooth="yes"/>
+      <point x="111.0" y="-12.0"/>
+      <point x="39.0" y="71.0"/>
+      <point x="39" y="209" type="curve" smooth="yes"/>
+      <point x="39.0" y="438.0"/>
+      <point x="158.0" y="612.0"/>
+      <point x="315" y="612" type="curve" smooth="yes"/>
+      <point x="435.0" y="612.0"/>
+      <point x="507.0" y="530.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.glyphVariationGlyphs</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

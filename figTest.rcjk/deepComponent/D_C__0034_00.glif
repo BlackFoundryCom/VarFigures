@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DC_0034_00" format="2">
+  <advance width="511"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>DBLD</key>
+            <real>0.35</real>
+            <key>HBAR</key>
+            <real>0.2</real>
+            <key>HBLD</key>
+            <real>0.4</real>
+            <key>LONH</key>
+            <integer>0</integer>
+            <key>TOPC</key>
+            <real>0.15</real>
+            <key>VBLD</key>
+            <real>0.38</real>
+            <key>WDTH</key>
+            <real>0.45</real>
+          </dict>
+          <key>maxValue</key>
+          <real>1.0</real>
+          <key>minValue</key>
+          <real>0.0</real>
+          <key>name</key>
+          <string>four_02</string>
+          <key>rcenterx</key>
+          <integer>0</integer>
+          <key>rcentery</key>
+          <integer>0</integer>
+          <key>rotation</key>
+          <integer>0</integer>
+          <key>scalex</key>
+          <integer>1</integer>
+          <key>scaley</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>20</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>robocjk.glyphVariationGlyphs</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

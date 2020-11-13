@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DC_0036_00" format="2">
+  <advance width="1000"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>WDTH</key>
+            <real>0.33</real>
+            <key>XBLD</key>
+            <real>0.45</real>
+          </dict>
+          <key>maxValue</key>
+          <real>1.0</real>
+          <key>minValue</key>
+          <real>0.0</real>
+          <key>name</key>
+          <string>six_00</string>
+          <key>rcenterx</key>
+          <integer>0</integer>
+          <key>rcentery</key>
+          <integer>0</integer>
+          <key>rotation</key>
+          <integer>0</integer>
+          <key>scalex</key>
+          <integer>1</integer>
+          <key>scaley</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>robocjk.glyphVariationGlyphs</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>
