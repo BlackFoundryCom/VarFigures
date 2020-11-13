@@ -1,14 +1,15 @@
-<glyph format="2" name="uni0038.sup">
-  <advance width="425" />
-  <unicode hex="0038" />
-  <guideline angle="0" identifier="qiwYGRPyRU" x="303" y="612" />
-  <guideline angle="0" identifier="VnxaZwvuyp" x="281" y="600" />
-  <guideline angle="0" identifier="mnna1N8AaY" x="278" y="-12" />
-  <guideline angle="0" identifier="Dd0iKrBAFd" x="307" y="460" />
-  <guideline angle="0" identifier="6U5wSPU7Bs" x="284" y="472" />
-  <guideline angle="0" identifier="caseZq3qjK" x="276" y="400" />
-  <guideline angle="0" identifier="efxtQNlT6e" x="417" y="406" />
-  <guideline angle="0" identifier="nuhGZTixUV" x="417" y="-6" />
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0038.sup" format="2">
+  <advance width="425"/>
+  <unicode hex="0038"/>
+  <guideline x="303" y="612" angle="0" identifier="qiwYGRPyRU"/>
+  <guideline x="281" y="600" angle="0" identifier="VnxaZwvuyp"/>
+  <guideline x="278" y="-12" angle="0" identifier="mnna1N8AaY"/>
+  <guideline x="307" y="460" angle="0" identifier="Dd0iKrBAFd"/>
+  <guideline x="284" y="472" angle="0" identifier="6U5wSPU7Bs"/>
+  <guideline x="276" y="400" angle="0" identifier="caseZq3qjK"/>
+  <guideline x="417" y="406" angle="0" identifier="efxtQNlT6e"/>
+  <guideline x="417" y="-6" angle="0" identifier="nuhGZTixUV"/>
   <outline>
   </outline>
   <lib>
@@ -48,7 +49,7 @@
         </dict>
       </array>
       <key>robocjk.fontVariationGlyphs</key>
-      <dict />
+      <dict/>
     </dict>
   </lib>
 </glyph>
