@@ -20,10 +20,10 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>BOLD</key>
-            <real>0.5</real>
-            <key>WDTH</key>
-            <real>0.05</real>
+            <key>X_X_bo</key>
+            <real>0.35</real>
+            <key>X_X_la</key>
+            <integer>0</integer>
           </dict>
           <key>maxValue</key>
           <real>1.0</real>
