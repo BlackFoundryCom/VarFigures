@@ -472,7 +472,7 @@
             <integer>351</integer>
           </dict>
           <key>layerName</key>
-          <string>diaweight</string>
+          <string>diabold</string>
           <key>maxValue</key>
           <real>1.0</real>
           <key>minValue</key>
