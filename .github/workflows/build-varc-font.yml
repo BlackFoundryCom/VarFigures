@@ -36,3 +36,15 @@ jobs:
       with:
         name: font_files
         path: variable_ttf
+
+    - name: Storing UFO artifacts
+      uses: actions/upload-artifact@master
+      with:
+        name: figArnaud.ufo
+        path: figArnaud.ufo
+
+    - name: Storing .designspace
+      uses: actions/upload-artifact@master
+      with:
+        name: figArnaud.designspace
+        path: figArnaud.designspace
