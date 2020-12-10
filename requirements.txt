@@ -1,0 +1,3 @@
+git+https://github.com/BlackFoundryCom/rcjk-tools.git
+fonttools[ufo,woff,lxml,unicode]
+fontmake[pathops]
