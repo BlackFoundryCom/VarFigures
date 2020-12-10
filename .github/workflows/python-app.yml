@@ -28,7 +28,7 @@ jobs:
 
     - name: Build fonts
       run: |
-        ./buildFonts.sh
+        ./buildFont.sh
 
     - name: Storing font artifacts
       uses: actions/upload-artifact@master
