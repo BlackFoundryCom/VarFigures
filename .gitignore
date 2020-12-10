@@ -1,2 +1,8 @@
 */*.ufo
 */locker__
+
+# Build artifacts
+/build/
+/figArnaud.ufo/
+/figArnaud.designspace
+/variable_ttf/
