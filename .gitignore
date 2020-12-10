@@ -6,3 +6,6 @@
 /figArnaud.ufo/
 /figArnaud.designspace
 /variable_ttf/
+
+# Mac nonsense
+.DS_Store
