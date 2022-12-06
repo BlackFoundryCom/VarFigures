@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0039.sc" format="2">
+  <advance width="490"/>
+  <unicode hex="0039"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.black-foundry.variable-components</key>
+      <array>
+        <dict>
+          <key>base</key>
+          <string>DC_0039_00</string>
+          <key>location</key>
+          <dict>
+            <key>B_D_bo</key>
+            <integer>0</integer>
+            <key>X_X_bo</key>
+            <real>0.9</real>
+            <key>X_X_la</key>
+            <real>0.0</real>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scaleX</key>
+            <real>0.8</real>
+            <key>scaleY</key>
+            <real>0.837</real>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <real>3.0</real>
+            <key>translateY</key>
+            <real>0.0</real>
+          </dict>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DC_0038_00" format="2">
+  <advance width="999"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.black-foundry.variable-components</key>
+      <array>
+        <dict>
+          <key>base</key>
+          <string>eight_00</string>
+          <key>location</key>
+          <dict>
+            <key>WDTH</key>
+            <real>1.0</real>
+            <key>WGHT</key>
+            <real>0.465</real>
+          </dict>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DC_0032_00" format="2">
+  <advance width="530"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.black-foundry.variable-components</key>
+      <array>
+        <dict>
+          <key>base</key>
+          <string>two_00</string>
+          <key>location</key>
+          <dict>
+            <key>DBLD</key>
+            <real>1.0</real>
+            <key>HBLD</key>
+            <integer>0</integer>
+            <key>HLON</key>
+            <integer>0</integer>
+            <key>WDTH</key>
+            <real>0.32</real>
+            <key>WGHT</key>
+            <real>0.44</real>
+          </dict>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

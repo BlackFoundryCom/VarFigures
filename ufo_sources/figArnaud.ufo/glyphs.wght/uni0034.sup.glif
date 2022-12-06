@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0034.sup" format="2">
+  <advance width="405"/>
+  <unicode hex="0034"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.black-foundry.variable-components</key>
+      <array>
+        <dict>
+          <key>base</key>
+          <string>DC_0034_00</string>
+          <key>location</key>
+          <dict>
+            <key>BR_H_lo</key>
+            <integer>0</integer>
+            <key>B_H_hi</key>
+            <real>0.1</real>
+            <key>T_DV_co</key>
+            <real>0.374</real>
+            <key>X_D_bo</key>
+            <real>0.6</real>
+            <key>X_H_bo</key>
+            <real>0.622</real>
+            <key>X_V_bo</key>
+            <real>0.623</real>
+            <key>X_X_la</key>
+            <integer>0</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scaleX</key>
+            <real>0.69</real>
+            <key>scaleY</key>
+            <real>0.668</real>
+            <key>skewX</key>
+            <integer>0</integer>
+            <key>skewY</key>
+            <integer>0</integer>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <real>9.0</real>
+            <key>translateY</key>
+            <real>360.0</real>
+          </dict>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
